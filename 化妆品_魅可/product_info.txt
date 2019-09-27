@@ -1,0 +1,934 @@
+魅可品牌简介：
+因为我们的彩妆艺术家。
+魅可支持多样性和自我个性——我们服务所有年龄，种族和性别。
+魅可是由工作在一起的彩妆师们组成团体，我们的品牌愿景是由他们来实现的。
+魅可活跃于创造彩妆趋势，与时尚、艺术和潮流文化的艺术家们合作。我们的彩妆师参与创造世界各地时装后台的流行趋势。
+魅可希望承担社会责任，类似于VIVA GLAM和魅可艾滋病基金会的创意善举，实实在在的传递出我们独特文化的灵魂。
+M·A·C暨Make-up Art Cosmetics，开始于加拿大，多伦多。既是彩妆师又是摄影师的Frank Toskan和经营沙龙的Frank Angelo对于缺少适合拍照的彩妆品非常困扰，所以他们决定自己创造。刚开始，他们在家里的厨房制作化妆品，然后直接在沙龙里，彩妆师、模特和摄影师之间售卖。很快，造型师和时尚编辑加入了行动。随着给杂志赞助的大获成功，与口口相传的超人气口碑，这对二人组在1984年3月开办了他们在多伦多的柜台。
+他们的做法非常独特且实用，比如把彩妆品放在黑色的罐子里，而不是盒子里。当其他品牌都还是专注于护肤时，魅可选择发展自己对于极致色彩的掌控。行业内第一个让彩妆师站柜台的品牌。最热门的产品是一支颜色浓郁的哑光红色唇膏，得益于当时迅速蹿红的麦当娜的一张照片中的造型，和之后她身着的魅可T恤。
+大量的创新产品象暴风雨一样席卷而来，设法把高贵迷人的风格与现实生活的体验相结合。建立专柜之后，魅可的前进道路开始呈现其独特性，比起利用传统的推销的手段增加销量，魅可则依靠其完备的产品线。给魅可的形象加上不拘泥于规则的印象。崇尚表现个性和自我表达，魅可将舞台的感觉融入专卖店和专柜的设计中。
+1994 年，当艾滋病席卷整个世界的时候，魅可决定把建立艾滋病毒和艾滋病组织作为公司慈善事业的焦点，于是便创立了魅可艾滋病基金会。到目前为止，通过VIVA GLAM活动，已经筹集了超过4亿千万美金的魅可艾滋病基金来抵抗艾滋，其代言人有Lady Gaga, Pamela Anderson and Nicki Minaj.
+魅可从1994年起作为雅诗兰黛集团的一部分，在全球90个国家销售。它始终保持研发新产品及新类型外加每年50多个系列，服务普通消费者和彩妆师。
+魅可常与流行文化，艺术界和时尚界的宠儿们合作，比如Rihanna、Lorde、Proenza Schouler、The Rocky Horror Picture Show和Brooke Shields。这些合作持续增强魅可与其新老爱好者们的联系，同时彩妆师与200多场时装周秀后台始终如一的合作，如Prabal Gurung和Vivienne Westwood。
+
+-------------------------------------------------
+产品名字：魅可时尚焦点小眼影
+产品标题：Small Eye Shadow
+产品颜色：[('Omega 柔亮米褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25027.jpg'), ('Red Brick Orange Red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MC5C2X.jpg'), ('Expensive Pink 粉色带铬黄微闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K07.jpg'), ('Wedge 柔和米灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503F.jpg'), ('Rule Vivid orange', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502M.jpg'), ('Soba 带金色微闪的金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25065.jpg'), ('Haux Soft muted rosy brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2501J.jpg'), ('Ruddy 热情红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55KC4.jpg'), ('Cork 低调金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500R.jpg'), ('Paradisco 明亮珠光珊瑚粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25074.jpg'), ('Chrome Yellow Vivid bright yellow', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500K.jpg'), ('Pink Venus 粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250CC.jpg'), ('Suspiciously Sweet 珊瑚橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R5P.jpg'), ('Mythology 铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250AG.jpg'), ('Amber Lights 闪泽桃润棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25001.jpg'), ('Sushi Flower 微闪粉红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25066.jpg'), ('Fashion’s Field Day 珊瑚粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R6G.jpg'), ("Stars N' Rockets Purple w/pink pearl", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K31.jpg'), ('Woodwinked 温润复古金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K06.jpg'), ('I’m Into It 深红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R5M.jpg'), ('Twinks Deep plum w/pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K39.jpg'), ('Passionate Real mid-tone red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M7J201.jpg'), ('Espresso 低调深棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25013.jpg'), ('Brun 低调黑棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500F.jpg'), ('Charcoal Brown Muted taupe brown ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25099.jpg'), ('Cranberry 粉闪红润李子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500T.jpg'), ('Texture Peachy-brown with shimmer', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250A4.jpg'), ('Brown Down  Teddy bear brown (Veluxe)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M40M15.jpg'), ('Naked Lunch 微闪粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250ET.jpg'), ('Shock Factor 浅柠檬绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R5L.jpg'), ('Mulch 带古铜色珠光的红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25043.jpg'), ('Girlie 微闪玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2501D.jpg'), ('Goldmine 闪亮热情金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2501F.jpg'), ('Jest 冰闪柔润白桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2501M.jpg'), ('Orb Soft peachy-beige', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25028.jpg'), ('Satin Taupe 银闪褐灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502T.jpg'), ('Vanilla 蜜桃象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503A.jpg'), ('Plumage Dusky peacock', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250A7.jpg'), ('Trax 带微闪的酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503T.jpg'), ('Humid 微闪绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25044.jpg'), ('Cherry Topped 玫粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R5N.jpg'), ('In The Shadows 活力深蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R6K.jpg'), ('Arena Soft gold-peach with pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25004.jpg'), ('Bronze 金青铜闪亮金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500D.jpg'), ('Brule 柔润奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500E.jpg'), ('Concrete 柔和灰棕色 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500M.jpg'), ('Contrast 蓝珠光闪蓝紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500N.jpg'), ('Coquette Muted greyish-taupe', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500P.jpg'), ('Corduroy Muted reddish-brown ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2500Q.jpg'), ('Era 自然裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25012.jpg'), ('Malt Soft pinkish-beige', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2501W.jpg'), ('Nylon 浅金色透着冰冷微光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25025.jpg'), ('Print 柔和闪光灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502G.jpg'), ('Quarry Soft muted plum-brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502J.jpg'), ('Ricepaper 闪光粉金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502K.jpg'), ('Sable 闪光金紫李子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2502N.jpg'), ('Sketch 明亮酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25030.jpg'), ('Swish 带亮片的亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25035.jpg'), ('Swiss Chocolate Muted reddish brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25036.jpg'), ('Tilt 带珠光的蓝绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25039.jpg'), ('Vapour Peach-pink w/violet pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503C.jpg'), ('Vex 带粉绿色珠光的米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503E.jpg'), ('White Frost 带微闪的鲜明白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503H.jpg'), ('Yogurt 柔和淡粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503J.jpg'), ('Carbon 黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25064.jpg'), ('Electric Eel Bright blue with shimmer', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25067.jpg'), ('Parfait Amour 微闪蓝紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25070.jpg'), ('Steamy 带金珠光的蓝绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25073.jpg'), ('Embark 浓郁红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25076.jpg'), ('Black Tied 带银色亮片的黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25080.jpg'), ('Beauty Marked 珠光黑红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25081.jpg'), ('Grain Golden beige with icy shimmer', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250A0.jpg'), ('Soft Brown Soft golden peachy-brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250A2.jpg'), ('Shadowy Lady Blackened plum', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250A6.jpg'), ('Greensmoke 橄榄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250AC.jpg'), ('Retrospeck 金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250AE.jpg'), ('Honesty 古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250AF.jpg'), ('Club 带绿珠光的红褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503X.jpg'), ('Shroom 带微闪的柔和米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25042.jpg'), ('Sweet Lust 粉红玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250C8.jpg'), ('Gleam 金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250CT.jpg'), ('Honey Lust 青铜蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250CW.jpg'), ('Tempting 椰子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250CX.jpg'), ('Phloof! 磨砂灰白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250EC.jpg'), ('Gesso 鲜明白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250ER.jpg'), ('Deep Truth 深蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M250F2.jpg'), ('Sumptuous Olive 珍珠闪卡其色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K01.jpg'), ('Coppering 橘铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K04.jpg'), ('Silver Ring 灰色带银色闪光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K05.jpg'), ('Star Violet 粉棕闪李子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K10.jpg'), ('Antiqued 青铜灰棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K12.jpg'), ('Beautiful Iris 薄闪薰衣草色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K13.jpg'), ('Dazzlelight Neutral with shimmer', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K32.jpg'), ('All That Glitters Beige w/gold pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K38.jpg'), ('Knight Divine 使眼色带有银色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55K40.jpg'), ('Atlantic Blue Bright violet blue', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MC5C2T.jpg'), ('Shale 微闪淡紫梅色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503M.jpg'), ('Patina 带金色珠光的灰褐棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2503N.jpg'), ('Oh My Mocha! 复古蔓越莓色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R5R.jpg'), ('Up At Dawn 果子露橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R6F.jpg'), ('New Crop 珠光明亮森林绿', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY6R6H.jpg'), ('Nice Energy 电黄柠檬绿', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55KC5.jpg'), ('How Royal 珍珠蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55KC6.jpg'), ('Teal Appeal 热情凫蓝/绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M55KC7.jpg')]
+产品价格：¥155
+产品说明：该眼影色泽饱满。极易涂抹晕染，颜色均匀。干湿两用。有不同质地和大量的颜色可供挑选。
+使用方法：用手指、刷子或海绵顶部涂于眼皮。
+
+-------------------------------------------------
+产品名字：魅可闪耀星辰液体眼影
+产品标题：Dazzleshadow Liquid
+产品颜色：[('Not Afraid To Sparkle  Sheer silver with multipearl glitter', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW01.jpg'), ('Diamond Crumbles Holographic blue with pink pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW10.jpg'), ('Blinking Brilliant Orangey copper', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW02.jpg'), ('Flash And Dash Light gold champagne', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW04.jpg'), ('Every Day Is Sunshine Light peach', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW07.jpg'), ('Rayon Rays Warm brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW09.jpg'), ('Love Yourself Light metallic pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW06.jpg'), ('Panthertized Black with green and purple pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW03.jpg'), ('Beam Time Rose gold', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW05.jpg'), ('Stars In My Eyes Metallic Silver', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SCAW08.jpg')]
+产品价格：¥155
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可时尚焦点小眼影-闪耀星辰系列
+产品标题：DAZZLESHADOW
+产品颜色：[('I Like 2 Watch 中间调棕色带金闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE10.jpg'), ('Last Dance 浅桃粉色带粉闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE02.jpg'), ('Slow/Fast/Slow 古铜色带红闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE11.jpg'), ('Get Physical 紫色带浅蓝闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE12.jpg'), ('Try Me On 深蓝绿色带闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE05.jpg'), ("Let's Roll 红铜色带高闪", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE03.jpg'), ('She Sparkles 浅灰色带银闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE01.jpg'), ('Oh So Gilty Yellow gold', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE28.jpg'), ("Can't Stop, Don't Stop 深梅紫色带闪", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE07.jpg'), ("Say It Isn't So 深灰色带粉闪", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE06.jpg'), ('Feel the Fever 深蓝紫色带粉闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWNE13.jpg')]
+产品价格：¥155
+产品说明：拥有闪亮缤纷色彩的魅可闪耀星辰小眼影，色泽饱满，飞粉极少，给予双眸美丽的闪亮光泽。添加的配方为粉质提供了一种完美结合膏体和粉末的质感，给双眸带来耀眼精致的多面光泽。
+使用方法：用手指、刷子或海绵蘸取产品涂于眼皮。
+
+-------------------------------------------------
+产品名字：魅可幻丽星辰细粉
+产品标题：Pigment
+产品颜色：[('Rose  玫瑰色带铜闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8H52.jpg'), ('Vanilla  柔光象牙白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8H13.jpg'), ('Gold 丝滑高闪金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8T01.jpg'), ('Old Gold  High frosted tarnished gold', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8L53.jpg'), ('Melon 柔光亮金桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8K42.jpg'), ('Copper Smooth, high-shine copper', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8T03.jpg')]
+产品价格：¥220
+产品说明：华丽的眼妆，从白天的纯粹缥缈到夜晚的强烈闪耀。互补色调的眼影提供星辰粉末 的妆效，为一整季提供创新的色彩。魅可创新推出一款高珠光效果，霜状幻丽星辰眼影，干用呈现半透明闪亮的完妆效果，湿用呈现高度闪亮夸张的遮盖力。
+使用方法：用干刷子或湿刷子沾取用于需要的部位。
+
+-------------------------------------------------
+产品名字：魅可时尚焦点小眼影
+产品标题：Eye Shadow Pro Palette
+产品颜色：[('Omega 米灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25927.jpg'), ('Soba 微闪金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25965.jpg'), ('Ruddy 热烈红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M573C4.jpg'), ('Honey Lust 青铜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259CW.jpg'), ('Brun 黑褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590F.jpg'), ('Naked Lunch 微闪粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259ET.jpg'), ('Brule 奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590E.jpg'), ('Suspiciously Sweet 珊瑚橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5P.jpg'), ('Paradisco 珠光珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25974.jpg'), ('Nylon 微闪淡金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25925.jpg'), ('Shroom 微闪柔和米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25942.jpg'), ('I’m Into It 深红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5M.jpg'), ('Sketch 微闪勃艮第红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25930.jpg'), ('Oh My Mocha! 复古蔓越莓', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5R.jpg'), ('Cranberry 微闪梅花粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590T.jpg'), ('Wedge 米灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593F.jpg'), ('Cork 金黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590R.jpg'), ('Up At Dawn 果汁橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T6F.jpg'), ('Honesty 铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259AF.jpg'), ('Tempting 椰子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259CX.jpg'), ('Bronze 带金古铜色光泽的金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590D.jpg'), ('Espresso 金黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25913.jpg'), ('Mythology 古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259AG.jpg'), ('Woodwinked 温暖的仿古金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M57306.jpg'), ('Fashion’s Field Day 珊瑚粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T6G.jpg'), ('Sushi Flower 微闪粉红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25966.jpg'), ('Steamy 金珠光蓝绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25973.jpg'), ('Black Tied 银亮片黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25980.jpg'), ('Beauty Marked 珠光黑红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25981.jpg'), ('Carbon 黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25964.jpg'), ('Trax 微闪勃艮第色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593T.jpg'), ('Club 绿珠光红褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593X.jpg'), ('Mulch 古铜珠光红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25943.jpg'), ('Humid 微闪绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25944.jpg'), ('Greensmoke 橄榄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259AC.jpg'), ('Retrospeck 金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259AE.jpg'), ('Pink Venus 粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259CC.jpg'), ('Gleam 金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259CT.jpg'), ('Phloof! 磨砂灰白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259EC.jpg'), ('Gesso 鲜明白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259ER.jpg'), ('Sumptuous Olive 珠光卡其色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M57301.jpg'), ('Beautiful Iris 光泽薰衣草色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M57313.jpg'), ('Aqua 柔和淡灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259L7.jpg'), ('Cobalt 明亮钴蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259LC.jpg'), ('Lime 柠檬绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M259LF.jpg'), ('Ground Brown 布朗色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M44X66.jpg'), ('Indian Ink 深茄子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M44X67.jpg'), ('Kelly  明亮绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M44X68.jpg'), ('Naval 深海军蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M44X69.jpg'), ('Deep Damson 深酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M44X72.jpg'), ('Nice Energy 黄石灰绿', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M573C5.jpg'), ('Teal Appeal 强烈水蓝色/绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M573C7.jpg'), ('Shock Factor 石灰绿', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5L.jpg'), ('Cherry Topped 紫粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5N.jpg'), ('Zinc Blue 深海蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T5T.jpg'), ('New Crop 珍珠绿l', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T6H.jpg'), ('In The Shadows 活力深蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S73T6K.jpg'), ('Amber Lights 微闪桃褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25901.jpg'), ('Concrete 灰褐棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590M.jpg'), ('Contrast 带蓝珠光的紫蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2590N.jpg'), ('Era 微闪柔和金米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25912.jpg'), ('Goldmine 微闪金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2591F.jpg'), ('Jest 微闪蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2591M.jpg'), ('Print 微闪灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2592G.jpg'), ('Ricepaper 微闪桃金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2592K.jpg'), ('Rule 鲜艳橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2592M.jpg'), ('Sable 青铜珠光金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2592N.jpg'), ('Satin Taupe 银色微闪灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2592T.jpg'), ('Tilt 蓝绿珠光紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M25939.jpg'), ('Vanilla 象牙桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593A.jpg'), ('Vex 粉绿珠光米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593E.jpg'), ('White Frost 微闪白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593H.jpg'), ('Shale 微闪淡紫梅色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593M.jpg'), ('Patina 金珠光灰褐棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2593N.jpg')]
+产品价格：¥100
+产品说明：此款眼影色泽饱满。调和上妆皆极为方便。您能根据自己的喜好调配使用。而将其置入专业彩妆盘中则能更好的保存和携带。
+使用方法：用手指、刷子或海绵顶部上妆。
+
+-------------------------------------------------
+产品名字：魅可立体绒光小眼影
+产品标题：Extra Dimension Eye Shadow
+产品颜色：[('Ready To Party Pale lilac', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN18.jpg'), ('Grand Galaxy 暗淡中调紫罗兰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN03.jpg'), ('Evening Grey Steel silver', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN21.jpg'), ('Stylishly Merry Midtone dusty violet', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN19.jpg'), ('Amorous Alloy Deep terracotta copper', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN43.jpg'), ('Lunar Royal blue', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN04.jpg'), ('Havana 深铜棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN05.jpg'), ('Rich Core Dirty aubergine', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN08.jpg'), ('Smoky Mauve 粉调柔和淡紫', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN29.jpg'), ('Sea Worship Tarnished olive', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN35.jpg'), ('Legendary Lure Deep cerulean', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN37.jpg'), ('Fathoms Deep Deep blue', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN38.jpg'), ('A Natural Flirt Iridescent light pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN42.jpg'), ('Sweet Heat Soft peach pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTCN44.jpg')]
+产品价格：¥190
+产品说明：魅可立体绒光小眼影细腻、柔滑、水感的质地可以打造出深邃、明亮的双眸。无论是清透晶莹还是惊艳
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可柔彩矿质四色眼彩
+产品标题：Mineralize Eye Shadow (Quad)
+产品颜色：[('Bronze Assets 淡青铜色/青铜金属色/棕色/浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTR807.jpg'), ('Pink Sensibilities 粉棕色/巧克力棕色/黄粉色/冰蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTR805.jpg'), ('Soul Tribe 金葱浅米色/古铜色/深红棕色/橙古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTR809.jpg'), ('Golden Hours 青铜色/金棕色/软金桃色/浅金黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTR802.jpg')]
+产品价格：¥290
+产品说明：四色精巧搭配的眼影，一起烘焙成一整块完整彩盘。与普通的把粉压在传统金属盘中不同的是，眼影装在圆形陶瓷烤盘中，烘焙24小时，提供透明高光的效果。独特的富含矿物质的酵母提取物，混合77种滋养矿物质，如丝般柔滑。色调清透，层层覆盖，令双眸焕发迷人光彩。干湿两用，呈现地覆盖的微闪妆效或高覆盖的鲜明妆效。
+使用方法：用手指、刷子或海绵用于眼部。
+
+-------------------------------------------------
+产品名字：魅可时尚持久眼彩霜
+产品标题：Pro Longwear Paint Pot
+产品颜色：[('Soft Ochre 米黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX823.jpg'), ('Painterly 裸米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX814.jpg'), ('Layin’ Low 奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX812.jpg'), ('Groundwork 中调灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX805.jpg'), ('Bare Study 带金色珠光的柔和米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX804.jpg'), ('Vintage Selection 磨砂灰调桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX822.jpg'), ('Rubenesque 带金色珠光的金桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX806.jpg'), ('Indianwood 带金属感的古旧青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX807.jpg'), ('Constructivist 带红色珠光的金属棕红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MPX808.jpg')]
+产品价格：¥180
+产品说明：这款眼彩霜具有高度着色力，顺滑膏状质地，快速上色。该产品有着如同肌肤般的质地，能与眼部肌肤很好地融合，有一定遮盖力而不会感觉厚重结块。上妆效果持久，不易脱妆，可与魅可眼影和眼线搭配使用。
+使用方法：用手指或刷子涂抹在眼部。
+
+-------------------------------------------------
+产品名字：魅可幻丽星辰细粉 (迷你版)
+产品标题：Sized to Go Pigment
+产品颜色：[('Rose 金闪玫瑰', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2L452.jpg'), ('Tan Muted pinky brown bronze', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2L412.jpg'), ('Melon Soft bright golden peach', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S71N42.jpg'), ('Vanilla Soft ivory white', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S71P13.jpg')]
+产品价格：¥120
+产品说明：高显色度的浓缩粉末，内含吸附成份，有效持久附着肌肤。打造精细的色彩表现力和夸张的效果，极易涂抹晕染，持久不掉妆。无裂痕，不结块。友情提醒：该星辰细粉按重量而非体积售卖，容器的体积可能让细粉视觉上呈现的量比实际量少。(迷你版)
+使用方法：用干刷或湿刷子叠加在需要的部位。
+
+-------------------------------------------------
+产品名字：魅可时尚幻彩霜
+产品标题：Cream Colour Base
+产品颜色：[('Pearl 带白色亮片的淡金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR05.jpg'), ('Hush 带白色亮片的柔和桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR09.jpg'), ('Shell 带亮片的柔和粉米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR08.jpg'), ('Luna 带亮片的亮白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR11.jpg'), ('Improper Copper 带金色的古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR21.jpg')]
+产品价格：¥190
+产品说明：魅可时尚幻彩霜，霜状质地，蕴含润肤成分，打造多种薄透、润泽的妆效；根据使用方式，您可以打造出薄透或浓郁妆效。特别的产品配方，让产品可有多种用途，可直接涂抹于肌肤、眼部或唇部，或覆盖粉底、保湿霜或粉饼。无香精。
+使用方法：用于眼部、脸部及身体用一把干净刷子或者海绵头蘸上产品用手指或适合的刷子晕开Fawntastic和Black不建议用于唇部Fabulush, Improper Copper, Bamboo, Pink Shock, Vintage Rose 和 Premeditated不建议用于眼部
+
+-------------------------------------------------
+产品名字：魅可精准塑形眼线液笔
+产品标题：Brushstroke 24-Hour Liner
+产品颜色：[('Brushblack 黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5C401.jpg'), ('Brushbrown 棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5C402.jpg')]
+产品价格：¥190
+产品说明：使用笔尖可以画出极细的眼线效果；笔刷的平边可以画出较粗的眼线。这款眼线笔有黑色和棕色两款，极易上色、持久不晕妆、温水即可卸妆。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可顺心随意眼线笔
+产品标题：Modern Twist Kajal Liner
+产品颜色：[('Squid 炭黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL02.jpg'), ("Cat's Meow 黑色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL03.jpg'), ('Black Walnut 棕黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL04.jpg'), ('Shoreline 灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL01.jpg'), ('Long Espresso 浓咖啡棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL09.jpg'), ('Groundbreaker 暖调古铜棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL08.jpg'), ('Swamped 深卡其绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL11.jpg'), ('Nightcast 发灰梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL14.jpg'), ('Grey Tide 铂色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL12.jpg'), ('New Marine 鲜绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL07.jpg'), ('Nothing On 浅米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL06.jpg'), ('Polar Ice 珍珠白', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL05.jpg'), ('Ocean Liner 深蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXJL10.jpg')]
+产品价格：¥165
+产品说明：顺滑配方使这支眼线笔能一笔完成柔软丝滑质地的内眼线。它的色彩饱和度和深邃度打造精致的妆容。持久、防水配方让你的眼线能保持很久。
+使用方法：直接使用于眼部(也可用于画内眼线).这只产品一旦旋开之后就无法旋回.
+
+-------------------------------------------------
+产品名字：魅可持久眼线凝霜
+产品标题：Pro Longwear Fluidline
+产品颜色：[('Blacktrack 柔和哑黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P204.jpg'), ('Lowlights 深棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P255.jpg'), ('Dip Down 深哑褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P206.jpg'), ('Waveline 海军蓝带轻微金色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P201.jpg'), ('Siahi 深海蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P259.jpg'), ('Deliciously Rich 闪光灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P205.jpg'), ('Macroviolet 深烟紫色带红色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P209.jpg'), ('Blitz &amp; Glitz 深邃浓黑带金色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P216.jpg'), ('Shade 深绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P262.jpg'), ('Midnight Snack 深金属灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P263.jpg'), ('Brassy 黄铜金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P264.jpg')]
+产品价格：¥175
+产品说明：魅可流畅眼线凝霜为眼部带来精准润泽且柔亮的妆容。使用起来非常简单：用刷子先蘸后描即可搞定。该产品打造持久，不结块的眼妆，且有多种颜色可供您选择。刷子为单独售卖。
+使用方法：使用魅可#209眼线刷或魅可#208 细致斜角眉刷
+
+-------------------------------------------------
+产品名字：魅可精采烟熏眼线笔
+产品标题：Technakohl Liner
+产品颜色：[('Brownborder 深巧克力色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P04.jpg'), ('Graphblack 丰富黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P01.jpg'), ('Snowed In 纯白浅桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P46.jpg'), ('Broque 深咖啡色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P29.jpg'), ('Greyprint 霜状锡灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P02.jpg'), ('Earthline 霜状柔和灰棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P03.jpg'), ('Purple Dash 浓郁原调紫', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P05.jpg'), ('Auto-de-blu 淡海军蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P06.jpg'), ('Smoothblue 霜状海洋蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P07.jpg'), ('Uniform 带金色珠光的深卡其绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P08.jpg'), ('Jade Way 霜状纯翠绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P09.jpg'), ('Photogravure 棕色底调的柔软黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P10.jpg'), ('Raisinette 棕紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P31.jpg'), ('$$$ 中调铜金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P43.jpg'), ('Sterling Silver 银色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M76P47.jpg')]
+产品价格：¥165
+产品说明：魅可精采烟熏眼线笔质感柔润，色泽饱满。快干、长效且防尘、百搭。用它您可以很轻松地用其描画上下眼睑。当使用角度为90度时画出的眼线较细长，而当使用角度为180度时妆容即会厚重。
+使用方法：直接用于眼部。
+
+-------------------------------------------------
+产品名字：魅可时尚眼线笔
+产品标题：Eye Kohl
+产品颜色：[('Smolder 浓郁黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG01.jpg'), ('Teddy 浓郁棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG03.jpg'), ('Fascinating 哑光白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG28.jpg'), ('Phone Number 木炭色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG12.jpg'), ('Prunella 闪光黑紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG04.jpg'), ('Powersurge 闪光铜棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1XG10.jpg')]
+产品价格：¥160
+产品说明：魅可时尚眼线笔笔触柔和，用丰盈的色彩勾画，晕染双眸，带来丝滑、哑光/珠光的定妆效果。
+使用方法：直接用于眼部。
+
+-------------------------------------------------
+产品名字：魅可持久防水眼线笔
+产品标题：Powerpoint Eye Pencil
+产品颜色：[('Engraved 浓郁的黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY09.jpg'), ('Stubborn Brown 深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY10.jpg'), ('Forever Green 带亮片的橄榄绿色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY08.jpg'), ('Bountiful Brown 带青铜色的棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY11.jpg'), ('Buried Treasure 带金色的棕黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY21.jpg'), ('Duck 揉软灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY22.jpg'), ('Prussian 暗灰蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY23.jpg'), ('Industry 带珠光的灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3RY25.jpg')]
+产品价格：¥165
+产品说明：魅可持久防水眼线笔长效防水。为眼部带来金属感的，或是光感，抑或是哑光的妆容。它防晕染、防尘、防掉色...描上眼线，您的双眸即会熠熠生辉，光彩持久。
+使用方法：直接用于眼部。
+
+-------------------------------------------------
+产品名字：魅可俏丽双效睫毛膏
+产品标题：Haute & Naughty Lash
+产品颜色：[('Haute &amp; Naughty Brown 深咖啡色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2H02.jpg'), ('Haute &amp; Naughty Black 黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2H01.jpg')]
+产品价格：¥250
+产品说明：这款睫毛膏可使你的睫毛自然纤长，浓密卷翘。双刷头设计易于使用，减轻负担。一头方便拉长睫毛，另一边刷头使睫毛更加浓密。防水配方，更具持久效果。
+使用方法：如果想要自然妆效，用小刷头刷睫毛。浓密妆效用大刷头刷睫毛。从底部往上轻刷。
+
+-------------------------------------------------
+产品名字：自然精准双头眉笔
+产品标题：Shape & Shade Brow Tint
+产品颜色：[('Taupe Soft taupe blonde', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62903.jpg'), ('Tapered Red brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62904.jpg'), ('Spiked Rich brunette', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62906.jpg'), ('Lingering Soft taupe brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62905.jpg'), ('Cork Red head', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62902.jpg'), ('Fling Light taupe ash blonde', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S62901.jpg')]
+产品价格：¥180
+产品说明：集液体眉笔和眉粉于一体，轻松定义眉型。用精密刷头的液体轻松地确定眉型；再用另一端的海绵刷头，沾取笔盖中无污染的眉粉，填充眉毛空隙，使眉毛更光滑，轻柔定型。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可造型眉粉组合
+产品标题：Great Brows
+产品颜色：[('Lingering 浅褐色/深褐色/珠光桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58205.jpg'), ('Taupe 深咖色/浅咖色/珠光奶油色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58203.jpg'), ('Cork 浅棕色/深棕色/珠光浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58202.jpg'), ('Fling 浅灰褐色/暗灰褐色/珠光嫩粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58201.jpg'), ('Spiked 浅灰色/深灰色/珠光金粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58206.jpg'), ('Tapered 棕黄色/红棕色/珠光香槟粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S58204.jpg')]
+产品价格：¥265
+产品说明：我们的多合一眉粉套装内包含所有基础用品，可以在几秒钟内打造立体眉形。用两种哑光色自然色和一种提亮奶油色完成眉部妆容，粉质细腻，自然不易出错。小角度刷可以轻松上色，同时可以使用双头刷来增强边缘立体感。
+使用方法：使用小角度刷，沿着眉毛生长方向上色，再调整细节使用高光和阴影描绘轮廓使用双头刷将眉毛梳理成型
+
+-------------------------------------------------
+产品名字：魅可双头精致造型眉笔
+产品标题：Brow Sculpt
+产品颜色：[('Stud 深黑棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G608.jpg'), ('Lingering 棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G606.jpg'), ('Spiked 深红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G607.jpg'), ('Omega 浅灰金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G601.jpg'), ('Cork 暖金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G602.jpg'), ('Fling 灰金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G603.jpg'), ('Taupe 浅灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G604.jpg'), ('Brun 灰棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4G605.jpg')]
+产品价格：¥180
+产品说明：伸缩自如的三角形眉笔，能配合眉毛颜色，快速塑性，自如填充眉形。三角形笔尖可以随意打造眉毛的大小和形状。用笔头的平面打在自然松散的眉毛，或者用笔头的尖端打造高清的效果。眉笔另一端配有眉刷。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可自然丰盈眉棒
+产品标题：Big Brow Pencil
+产品颜色：[('Spiked 深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S27C05.jpg'), ('Lingering 中调暖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S27C02.jpg'), ('Coquette 中性棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S27C03.jpg'), ('Fling 金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S27C01.jpg'), ('Cork 红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S27C04.jpg')]
+产品价格：¥180
+产品说明：想要拥有大胆、浓密丰盈的眉毛？现在，这支造型圆胖的自动笔可以助你打造自由、全方位的眉妆。眉笔底部有装可拆卸的锥形卷笔刀。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可多用眼眉粉
+产品标题：Brow Duo
+产品颜色：[('Redhead Espresso/Cork', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MNLP05.jpg'), ('Blonde Omega/Soba', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MNLP04.jpg')]
+产品价格：¥230
+产品说明：哑光和丝缎两种质地的颜色组合。与眉毛融合的同时突出眉妆颜色。
+使用方法：使用斜角刷混合两种颜色。沿着发际线单独使用，打造高光或低光眉妆。li>或者将深色眉粉涂在眉毛较少或没有的地方，然后用浅色眉粉对眉毛整体进行调色。
+
+-------------------------------------------------
+产品名字：魅可细致眉笔
+产品标题：Eye Brows
+产品颜色：[('Fling 亮褐灰烟金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF01.jpg'), ('Strut 红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF02.jpg'), ('Brunette 棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF11.jpg'), ('Spiked 润色深棕', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF04.jpg'), ('Stud 丰润黑棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF03.jpg'), ('Stylized 棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1EF15.jpg')]
+产品价格：¥160
+产品说明：自锐性自动修容眉笔。此款流线型产品能满足您对形状，颜色，密度等一切需求。就像能自动校正笔尖的铅笔一样。它能修正眉形，加深/填充眉色。塑造惊艳眉弓。该眉笔易于携带，且无需卷笔刀。
+使用方法：用于眉毛填补、描画、上色。
+
+-------------------------------------------------
+产品名字：魅可眉廓定色胶
+产品标题：Brow Set
+产品颜色：[('Beguile 纯褐灰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M39E03.jpg'), ('Clear 透明色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M28701.jpg'), ('Girl Boy 浅褐金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M39E07.jpg')]
+产品价格：¥160
+产品说明：魅可眉廓定色胶可使眉毛定型以提升光泽感保持眉形。此定色胶不会脱落且自然不僵硬。也可用来修正睫毛、鬓发及面部垂发。
+使用方法：用刷子梳理眉毛的方式来上眉廓定色胶。
+
+-------------------------------------------------
+产品名字：魅可流畅眉霜
+产品标题：Fluidline Brow Gelcreme
+产品颜色：[('Deep Dark Brunette 深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMT202.jpg'), ('True Brunette 柔和棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMT207.jpg'), ('Dirty Blonde 柔和棕褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMT204.jpg'), ('Redhead 柔和金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMT205.jpg'), ('Ash Blonde 柔和浅褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMT206.jpg')]
+产品价格：¥200
+产品说明：一罐长效防水凝胶提供眉部定型。顺滑上妆，快干，提供精致眉妆。填色，增长或塑性，打造从自然到惊艳的妆容。
+使用方法：用#208斜角眉刷上妆。
+
+-------------------------------------------------
+产品名字：魅可时尚持久防水眉胶
+产品标题：Pro Longwear Waterproof Brow Set
+产品颜色：[('Brown Ebony 深黑褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY05.jpg'), ('Bold Brunette 柔和黑褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY04.jpg'), ('Red Chestnut 金棕微闪金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY02.jpg'), ('Quiet Brunette 中度灰褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY03.jpg'), ('Toasted Blonde 金亚麻色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY06.jpg'), ('Emphatically Blonde 柔亮浅褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMRY01.jpg')]
+产品价格：¥160
+产品说明：魅可时尚持久防水眉胶为啫喱胶体配方，配备刷头可以梳理修饰眉形，自然塑造精细或戏剧性的眉妆。胶体不油腻不黏腻，柔和定型，为眉毛带来健康光泽。六种色彩，足以搭配从深檀木色到微闪金棕色的任何发色。
+使用方法：用于眉毛填补、描画、上色。用眉刷晕染。
+
+-------------------------------------------------
+产品名字：魅可妆前提亮乳
+产品标题：Prep + Prime Highlighter
+产品颜色：[('Light 白象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L05.jpg'), ('Radiant Rose 淡贝壳粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L03.jpg'), ('Medium Plus 深米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L07.jpg'), ('Medium 暖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L06.jpg'), ('Light Boost 柔和的黄奶油色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L01.jpg'), ('Bright Forecast 中调的桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L02.jpg'), ('Dark Deep 金古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L09.jpg')]
+产品价格：¥260
+产品说明：钢笔式设计的提亮乳，为你带来柔软明亮肌肤。提亮你认为暗沉的肤色，柔软光滑的质地，使用起来自然顺畅。可用于妆前提亮、妆前眼霜或完妆提亮。
+使用方法：直接用刷子用于高光部位。用于全脸。或在粉底上使用。用手指充分晕染。
+
+-------------------------------------------------
+产品名字：魅可丝缎柔雾唇膏
+产品标题：Powder Kiss Lipstick
+产品颜色：[('316 Devoted To Chili 柔雾小辣椒 316柔雾小辣椒', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K031.jpg'), ('301 A Little Tamed  烟粉豆沙色 301 烟粉豆沙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K001.jpg'), ('314 Mull It Over 白桃奶茶色 314白桃奶茶色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K029.jpg'), ('303 Style Shocked! 胡萝卜汁色 303胡萝卜汁色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K005.jpg'), ('305 Burning Love 梅子浆果色 305梅子浆果色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K017.jpg'), ('315 Lasting Passion 糖霜草莓色 315糖霜草莓色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K030.jpg'), ('308 Mandarin O 初恋西柚色 308初恋西柚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K023.jpg'), ('307 Fall In Love 丝绒芭比粉 307丝绒芭比粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K022.jpg'), ('304 Sultriness 珊瑚暖粉色 304珊瑚暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K013.jpg'), ('312 Impulsive 巧克力裸棕 312巧克力裸棕', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K027.jpg'), ('313 Scattered Petals 哑光肉粉色 313哑光肉粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K028.jpg'), ('311 My Tweedy 肉桂土橘色 311肉桂土橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K026.jpg'), ('302 Sweet, No Sugar 暖调杏粉色 302暖调杏粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K002.jpg'), ('309 Best Of Me 清透米色 309清透米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K024.jpg'), ('310 Influentially It 焦糖裸橘色 310焦糖裸橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K025.jpg'), ('306 Shocking Revelation 复古红莓 306复古红莓', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4K021.jpg')]
+产品价格：¥170
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：哑光唇膏
+产品标题：Retro Matte Lipstick
+产品颜色：[('Ruby Woo 雾面正红色 哑光鲜艳蓝调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N904.jpg'), ('Dangerous 哑光橘红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N944.jpg'), ('All Fired Up 明亮哑光梅红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N918.jpg'), ('Runway Hit 哑光浅裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N914.jpg'), ('Relentlessly Red 明亮的哑光珊瑚粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N916.jpg'), ('Flat Out Fabulous 明亮的哑光玫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N919.jpg'), ('Steady Going 哑光浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N915.jpg')]
+产品价格：¥170
+产品说明：<ul><li>哑光风潮打造高级妆感</li><li>时尚变幻，哑光风潮永不过时</li><li>高级质感加持，引领唇妆热潮</li></ul>
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：柔感哑光唇膏
+产品标题：Matte Lipstick
+产品颜色：[('Chili 小辣椒 枫叶砖红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP01.jpg'), ('Marrakesh 棕红脏橘 Intense orange brown (Matte)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP05.jpg'), ('Russian Red 气质复古红 麦当娜同款 浓郁蓝调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP06.jpg'), ('Lady Danger 血橙色 鲜艳明亮红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP15.jpg'), ('Diva 姨妈色 浓郁酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP02.jpg'), ('D for Danger 砖红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3R.jpg'), ('Red Rock Classic clean red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP2M.jpg'), ('So Chaud 强烈橙红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP08.jpg'), ('Mangrove Hot, bright red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP0M.jpg'), ('Whirl  暗淡玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3W.jpg'), ('Sin 深暗红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP94.jpg'), ('Taupe 柔和偏红灰棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP09.jpg'), ('Velvet Teddy 深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP37.jpg'), ('Tropic Tonic 珊瑚橘色  全力珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3L.jpg'), ('Kinda Sexy 中调玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP36.jpg'), ('Antique Velvet  深棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3K.jpg'), ('Honeylove 玫瑰淡米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP35.jpg'), ('Heroine 亮紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP93.jpg'), ('Mehr 暗蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP70.jpg'), ('Yash 中性深色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP71.jpg'), ('Please Me 玫瑰调粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP32.jpg'), ('Breathing Fire Bright warm fuchsia', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP7R.jpg'), ('Really Me Muted neutral pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9K.jpg'), ('Instigator 深黑梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP4E.jpg'), ('Pink Pigeon 鲜艳的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP99.jpg'), ('Punk Couture Deep blackened grape', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP0J.jpg'), ('In The Spirit Pure black', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9R.jpg'), ('Candy Yum-Yum 霓虹粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP77.jpg'), ('Bronx Muted golden taupe brown (Matte)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0N901.jpg'), ('Pink Plaid 暗淡蓝调粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP33.jpg'), ('Smoked Purple 深茄紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP95.jpg'), ('Lavender Jade Dirty mauve with gold pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP1F.jpg'), ('Matte Royal 深蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3J.jpg'), ('Persistence 肉桂桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3M.jpg'), ('Naturally Transformed 柔和金褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3N.jpg'), ('Men Love Mystery 薰衣草紫罗兰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3P.jpg'), ('Stone 柔和灰棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP3T.jpg'), ('Studded Kiss 深血红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP4F.jpg'), ('Lazy Lullaby White lavender purple', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9F.jpg'), ('In My Fashion Darkened chocolate brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9G.jpg'), ('Lightly Charred Cool grey', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9H.jpg'), ('Deep Rooted Brown Taupe', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9J.jpg'), ('Dreampot Light candy blue', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9M.jpg'), ('4Eva Creamy light purple', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9N.jpg'), ('Frosting Pure white', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2LP9P.jpg')]
+产品价格：¥170
+产品说明：<ul><li>浓郁鲜明，哑光魅色</li><li>浓郁色彩勾勒鲜明轮廓</li><li>一抹出色，闪耀鲜明个性</li></ul>
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：水漾润泽唇膏
+产品标题：Lustre Lipstick
+产品颜色：[('Lady Bug 元气番茄红 元气番茄红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A12.jpg'), ('Cockney 斩男水红色 带多重珠光的纯粹水红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31AG7.jpg'), ('See Sheer 水漾西柚色 粉红葡萄柚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A14.jpg'), ('Spice It Up! 温热褐色浆果', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A06.jpg'), ('Flamingo 淡牛奶亮珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A7W.jpg'), ('Touch 蜜桃肉桂色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A20.jpg'), ('Giddy 带金色闪片的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A28.jpg'), ('Jubilee 裸粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A27.jpg'), ('Plumful 玫瑰紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A01.jpg'), ('Capricious 幻想玫瑰紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A21.jpg'), ('Milan Mode 多维珠光的深粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31AG5.jpg'), ('Hug Me 肉粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A11.jpg'), ('Lustering Outspoken pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A04.jpg'), ('Patisserie 纯粹的奶油粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31AG4.jpg'), ('Pretty Please 带珠光的淡粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A29.jpg'), ('Sweetie 超甜美的粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A22.jpg'), ('Syrup 阴郁粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A03.jpg'), ('Lovelorn 蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A02.jpg'), ('Fresh Brew 奶油咖啡色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A09.jpg'), ('Politely Pink 灰调粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A43.jpg'), ('Midimauve 玫瑰紫珍珠', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A45.jpg'), ('Razzledazzler 淡奶油桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A5C.jpg'), ('Highlights 很淡的奶油桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A9L.jpg'), ('Gold XIXI Lemony pastel yellow', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M31A9X.jpg')]
+产品价格：¥170
+产品说明：魅可唇膏—魅可的明星产品。水漾润泽唇膏的独特配方让您的涂抹更加顺滑，纯粹的覆盖打造更为光泽的唇面。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可润采诱光唇膏
+产品标题：Cremesheen Lipstick
+产品颜色：[('Dare You 细闪红宝石 敢爱宝石红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF316.jpg'), ('Sweet Sakura 斩男草莓红 斩男草莓红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF31C.jpg'), ('Dozen Carnations 锦鲤色 浓郁暖番茄红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF31A.jpg'), ('Brave Red 水润樱桃红 水润樱桃红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF315.jpg'), ('Party Line 玫瑰李子红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF312.jpg'), ('Crosswires 浅粉橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF310.jpg'), ('On Hold 中黄覆盆子', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF314.jpg'), ('Pretty Boy 浓郁粉珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30X.jpg'), ('Crème In Your Coffee 奶油粉棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF320.jpg'), ('Nippon 中调奶油珊瑚粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30P.jpg'), ('Modesty 中性哑光粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF303.jpg'), ('Hot Gossip 中调梅子粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF311.jpg'), ('Speak Louder 明亮罂粟蓝粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF308.jpg'), ('Ravishing 清爽淡桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF309.jpg'), ('Coral Bliss 磨砂淡珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA508.jpg'), ('Shanghai Spice 磨砂中性粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA506.jpg'), ('Pink Pearl Pop 磨砂中调粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA501.jpg'), ('Sunny Seoul 磨砂淡暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA502.jpg'), ('Crème d’Nude 浅桃米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF301.jpg'), ('Hang-up 浆果黑加仑', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF313.jpg'), ('Lickable 透亮蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF319.jpg'), ('Peach Blossom 磨砂冷调裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA503.jpg'), ('Speed Dial 亮蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF306.jpg'), ('Fanfare 中调黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF307.jpg'), ('Shy Girl 奶油中性珊瑚米黄', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF317.jpg'), ('Crème Cup 亮蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF318.jpg'), ('Pure Zen 磨砂暖调裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA504.jpg'), ('Japanese Maple 磨砂浅米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA507.jpg'), ('Saigon Summer 磨砂亮橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA509.jpg'), ('Sweet &amp; Sour 柔软的奶油蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30A.jpg'), ('Little Buddha 明亮桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30L.jpg'), ('Star Magnolia 明亮康乃馨粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30M.jpg'), ('Pickled Plum 明亮蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30N.jpg'), ('Koi Coral 中调奶油珊瑚粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF30R.jpg'), ('Love &amp; Cherished 奶油亮紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MCF33K.jpg')]
+产品价格：¥170
+产品说明：魅可明星唇膏，滋润的奶油质地使唇膏上唇舒适，打造中度遮盖力的光泽感唇妆。
+使用方法：直接用于唇部或使用魅可#316附盖式唇刷
+
+-------------------------------------------------
+产品名字：显色丰润唇膏
+产品标题：Amplified Lipstick 
+产品颜色：[('Dubonnet 杜本内酒红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN11.jpg'), ('Brick-O-La 玫瑰豆沙色 玫瑰豆沙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN29.jpg'), ('Vegas Volt 粉橘色 珊瑚粉橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN31.jpg'), ('Morange 明亮橙红色 亮橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN20.jpg'), ('Neon Orange 干净明亮的橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN68.jpg'), ('Full Fuschia 鲜艳的暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN66.jpg'), ('Impassioned 亮丽枚红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN19.jpg'), ('Dark Side 深紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN10.jpg'), ('Craving 梅花粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN05.jpg'), ('Girl About Town 明亮的蓝紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN22.jpg'), ('Chatterbox 亮红粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN32.jpg'), ('Fusion Pink 明亮的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN67.jpg'), ('Saint Germain 干净柔和的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LNC0.jpg'), ('Cosmo 可可粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN02.jpg'), ("Half 'n Half 奶油粉色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN14.jpg'), ('Fast Play 中性粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN25.jpg'), ('Show Orchid 亮玫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN69.jpg'), ('Blankety 柔和的粉红米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN28.jpg'), ('Up The Amp 薰衣草紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN35.jpg'), ('Violetta 干净明亮的紫罗兰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LN65.jpg'), ('Nifty Neon 橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3LNEE.jpg')]
+产品价格：¥170
+产品说明：魅可唇膏—魅可的明星产品。显色丰润唇膏的奶油配方带来顺滑的延展力，高超的覆盖力帮助您打造色彩大胆的精致唇妆。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可闪亮星泽唇膏
+产品标题：Frost Lipstick 
+产品颜色：[('CB 96 人鱼姬色 明亮珠光粉橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3000F.jpg'), ('Fresh Moroccan 珍珠砖红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300CR.jpg'), ('Spoiled Fabulous 金属光泽的金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009M.jpg'), ('New York Apple 微闪柔红粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3002M.jpg'), ('Costa Chic 雾光珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300H3.jpg'), ('Skew Coral with pink duochrome (Frost)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3003T.jpg'), ('Bronze Shimmer 微闪金铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3000A.jpg'), ('Pink, You Think? 带蓝三色珠光的霓虹粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009T.jpg'), ('Plum Dandy 铜紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300CN.jpg'), ('Angel 柔和粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3004Q.jpg'), ('Soft Hint 带蓝色珠光的糖果蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300HJ.jpg'), ('Gel 金属光泽的米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3001P.jpg'), ('On and On 带蓝色珠光的深紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009W.jpg'), ('Model Behaviour 带蓝色珠光的蓝紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009X.jpg'), ('Designer Blue 金属光泽的海洋蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009R.jpg'), ('&quot;O&quot; 带金色珠光的紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3002P.jpg'), ('Pick Me, Pick Me! 带粉色珠光的哑光淡紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300HH.jpg'), ('Odyssey 梅子紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3002N.jpg'), ('Fabby 珍珠紫粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M300AL.jpg'), ('Bombshell 明亮闪光玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M30072.jpg'), ('Wild Extract 带珠光的石灰绿', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009L.jpg'), ('Time To Shine 带白色珠光的银色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009N.jpg'), ('No Interruptions 哑光金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3009P.jpg')]
+产品价格：¥170
+产品说明：<ul><li>优雅星闪，另种风情</li><li>熠熠星闪唇，浪漫不失大气</li><li>华丽夺目，更添一分优雅气质</li></ul>
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可绒光丰盈唇膏
+产品标题：Satin Lipstick
+产品颜色：[('Mocha 暖暖奶茶色 暖暖奶茶色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW24.jpg'), ('Paramount 棕红巧克力', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW26.jpg'), ('Twig 浅棕色粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW33.jpg'), ('Del Rio 柔和梅子棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW10.jpg'), ('MAC Red 鲜艳明亮蓝调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW44.jpg'), ('Sushi Kiss 中调奶油珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW0P.jpg'), ('Rebel 中调奶油梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW29.jpg'), ('Amorous 热恋红梅色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW01.jpg'), ('Cyber 浓郁黑紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW09.jpg'), ('Fleshpot 柔和的淡粉红米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW0L.jpg'), ('Myth 浅裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW46.jpg'), ('Faux 柔和淡紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW11.jpg'), ('Snob 浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW53.jpg'), ('Film Noir 强烈棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW12.jpg'), ('Verve 柔和褐梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW36.jpg'), ('Peachstock 奶油米黄桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW47.jpg'), ('Brave 粉米色带白色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW04.jpg'), ('Media 强烈红紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW21.jpg'), ('Cherish 柔和桃米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW08.jpg'), ('Spirit 柔和粉米粽色 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW31.jpg'), ('Captive 粉梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW05.jpg'), ('Pink Nouveau 亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW48.jpg'), ('Dew 奶油蓝紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3EW1X.jpg')]
+产品价格：¥170
+产品说明：魅可唇膏—魅可的明星产品。绒光丰盈唇膏奶油状配方能够带来柔和的质感，更好的覆盖能力打造缎面般光洁的唇妆。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：单色美学唇膏
+产品标题：Lipstick/ M·A·C IN MONOCHROME
+产品颜色：[('See Sheer Grapefruit pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL714.jpg'), ('Diva  Intense reddishburgundy', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL602.jpg'), ('Ruby Woo Very matte vivid bluered', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL404.jpg'), ('Velvet Teddy  Deeptone beige', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL637.jpg'), ('Candy YumYum Neon pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL677.jpg'), ('Heroine Bright purple', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_SGL693.jpg')]
+产品价格：¥170
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可持久哑光液体唇膏
+产品标题：Retro Matte Liquid Lipcolour Metallics
+产品颜色：[('Love Weapon Deep blue-red (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W209.jpg'), ('Gemz &amp; Roses Bronze rose (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W214.jpg'), ('Atomized Violet (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W210.jpg'), ('Foiled Rose bronze (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W204.jpg'), ('Metallic Rose Rose gold (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W215.jpg'), ('Quartzette Beige (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W213.jpg'), ('Crowned Blackened purple (metallic)', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W206.jpg'), ("Softly Rockin' Soft pinky beige (metallic)", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9W201.jpg')]
+产品价格：¥210
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可持久哑光液体唇膏
+产品标题：Retro Matte Liquid Lipcolour
+产品颜色：[('Feels So Grand 深红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N02.jpg'), ('Dance with Me 深蔓越莓红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N04.jpg'), ('Fashion Legacy 激情的红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N01.jpg'), ('Carnivorous 车厘子红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N32.jpg'), ('Quite the Standout 明亮橙红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N09.jpg'), ('High Drama 深紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N03.jpg'), ('Burnt Spice 奶油玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N39.jpg'), ('LadyBeGood 中调温暖裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N05.jpg'), ('Young Attitude 青黑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N33.jpg'), ('To Matte With Love 明亮树莓色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N10.jpg'), ('Back in Vogue 蜜桃裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N14.jpg'), ('So Me 灰梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N40.jpg'), ('Tailored to Tease 明亮玫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N06.jpg'), ('Oh, Lady 深紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N07.jpg'), ('Rich &amp; Restless 中调浅红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N15.jpg'), ('DivineDivine 明亮奶油粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N12.jpg'), ('Recollection 浓亮紫罗兰', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N08.jpg'), ('EssPresso 巧克力深棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N35.jpg'), ('Café Au Chic 深奶茶色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N38.jpg'), ('Topped With Brandy 深玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N41.jpg'), ('Uniformly Fabulous 黑加仑色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MY3N43.jpg')]
+产品价格：¥210
+产品说明：对于偏爱时时刻刻都能拥有不受时间影响的魅力的人群来说，哑光是他们的法宝。魅可生产了一种质地经典、色彩饱和度极高的唇膏——持久哑光液体唇膏。无论您选择了哪一色号，有一点是肯定的：一抹丝滑点亮唇间，让人过目不忘。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可幻影霓彩液体唇膏
+产品标题：Grand Illusion Glossy Liquid Lipcolour
+产品颜色：[("Let's Rock Coppered orange with green and yellow iridescence", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM11.jpg'), ('Electric Rainbow Opalescent pink and multi gold pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM03.jpg'), ('Pink Trip Bright pink with blue iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM07.jpg'), ('Space Bubble Blackberry Red with red iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM10.jpg'), ('Twinkle Twink Coral with gold pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM04.jpg'), ('Spoil Yourself 草莓亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM33.jpg'), ('Autumn Russet 清新鲜橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM25.jpg'), ("It'S Just Candy! 樱桃果汁色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM32.jpg'), ('Gilded Age Illuminiscent bronze gold', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM14.jpg'), ('Goldieloxxed 金闪肉桂色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM34.jpg'), ("Queen's Violet Royal purple with blue and pink iridecense", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM15.jpg'), ('Lunar Module Pale Blue iridescent pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM02.jpg'), ('Peace, Love, Unity, Respect Green with iridescent pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM06.jpg'), ('Broken Halo Silver with multi-color iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM05.jpg'), ('Florescence Electric yellow with pink iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM08.jpg'), ('Rave Bunny Bubblegum pink with electric blue iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM16.jpg'), ("Just Hustlin' 偏光香芋紫", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM27.jpg'), ('Ruby Princess 冷光紫罗兰', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM36.jpg'), ('Pearly Girl Cool pink with red and gold iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM13.jpg'), ('Sensory Overload Blackened deep purple with shimmering iridescence', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM09.jpg'), ('Party Sparkle 奶油粉紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7YM28.jpg')]
+产品价格：¥210
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可珠圆玉润唇膏笔
+产品标题：Patent Polish Lip Pencil
+产品颜色：[('Clever 中调砖珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ16.jpg'), ('Pleasant 玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ01.jpg'), ('Spontaneous 珍珠柔紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ08.jpg'), ('Innocent 裸浅褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ04.jpg'), ('Sultana 深紫葡萄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ03.jpg'), ('Ruby 中调玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ17.jpg'), ('Kittenish 紫粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ11.jpg')]
+产品价格：¥170
+产品说明：魅可珠圆玉润唇膏笔拥有独特的奶油润泽质地，让双唇保持柔软光滑，摆脱厚重和黏腻。旋转式设计，方便快速；圆润笔头，无需修整，10多种全新颜色让所有肤色都能从中找到完美匹配。
+使用方法：直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可丰润蜜吻唇膏
+产品标题：Plenty of Pout Plumping Lipstick
+产品颜色：[('Ample Chic 斩男草莓色 惹眼桃粉色，性感不失优雅', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL13.jpg'), ('Crazy Lush 活力番茄红 柔亮润泽，元气满分', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL15.jpg'), ('Lovemaker 蓝调浆果色 浓郁树莓色，明艳动人', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL16.jpg'), ('Extra-Luscious 透润西瓜红 亮泽水红色，双唇娇美可人', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL14.jpg'), ('Pout And About 蜜桃粉橘色 暖调桃粉，元气少女感', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL11.jpg'), ('So Swell 焦糖奶茶色 柔和红棕调，优雅复古感', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL17.jpg'), ('Kiss &amp; Cuddle 奶油杏仁色 温暖土橘，清透好气色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL03.jpg'), ('Extra Kissable 清新珊瑚粉 浅浅淡粉色，气质温柔', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S9CL12.jpg')]
+产品价格：¥210
+产品说明：唇膏含有蜂蜜精华，滋润保湿。清透亮泽，饱满浓郁。甜蜜多色随心选，百搭不挑皮。丰润水光唇，一抹立现。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可清新漆光唇釉
+产品标题：Versicolour Varnish Cream Lip Stain
+产品颜色：[('No Interruptions Deep burgundy', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA06.jpg'), ('Like Candy Bright cool pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA03.jpg'), ('Stuck In Love Rose nude', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA04.jpg'), ('Optix Orange Deep pink coral', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA02.jpg'), ('Peach Aflush Milky peach', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA09.jpg'), ('Try to Stop Me Creamy bright coral pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA05.jpg'), ('Varnishly Red Bright pinkish red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA10.jpg'), ('Effervescent 珠光鲜红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA08.jpg'), ('To The Extreme 元气橙红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA12.jpg'), ('Plexi Pink Bright fuschia', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA01.jpg'), ('Bitten Babe 冷调玫瑰粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA07.jpg'), ('Crushing It! 珊瑚裸粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA11.jpg'), ('Shock It To Me 水润奶油橘', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA13.jpg'), ('Serial Stain 酒渍樱桃红', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S7HA14.jpg')]
+产品价格：¥210
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可清新唇釉
+产品标题：Versicolour Stain
+产品颜色：[('Forever, Darling 强烈橙红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC304.jpg'), ("Can't Stop Won't Stop 强烈暖橘色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC310.jpg'), ('Resilient Rouge 明亮樱桃红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC303.jpg'), ('Tattoo My Heart  明亮的粉红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC301.jpg'), ('Preserving Passion 深酒色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC308.jpg'), ('Last Minute 强烈蔓越莓粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC311.jpg'), ('Truly Everlasting 明亮暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC305.jpg'), ("Let's Stay Together 中调暖粉色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC302.jpg'), ('Always &amp; Forever 粉三文鱼色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC306.jpg'), ('Perpetual Holiday 深葡萄紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC307.jpg'), ("It's Neverending! 深树莓色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC309.jpg'), ('Ceaseless Energy 明亮覆盆子粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC312.jpg'), ('Long Distance Relationship 中调紫罗兰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC313.jpg'), ('Constant Craving 中调蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC314.jpg'), ('Energy Shot 苍白裸粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC315.jpg'), ('Long Live the Night 浅暖裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYC316.jpg')]
+产品价格：¥210
+产品说明：液体配方将柔光与冰霜效果完美融合，让您的娇唇持久闪耀玻璃光泽。其温和的润肤成分与鲜活的凝胶水让保持明亮、有光泽和弹性的轻盈妆感成为可能。多种色调为您的娇唇注入活力。
+使用方法：用唇刷直接使用于唇部。和很多唇釉一样，随着时间的流逝，有时嘴唇会微微发干。如果可能的话，先用润唇膏打底或先使用我们的妆前底唇膏。本品不推荐特别干燥或敏感的嘴唇使用。和唇线笔搭配使用效果更佳。
+
+-------------------------------------------------
+产品名字：水光唇油
+产品标题：Hint Of Colour Lip Oil
+产品颜色：[('Pale Princess Light lemon yellow', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HJ04.jpg'), ('Doll To Diva Hot bubble gum pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HJ03.jpg'), ('La La Love You Creamy magenta', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HJ08.jpg'), ('Candy Drop Bright grape purple', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HJ10.jpg')]
+产品价格：¥170
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可星炫唇彩
+产品标题：DAZZLEGLASS
+产品颜色：[('Get Rich Quick 温暖的黄棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MACH10.jpg'), ('Money, Honey Mid-tone rosy mauve with red pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MACH06.jpg'), ('Pleasure Principle 白紫罗兰', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MACH47.jpg'), ('Extra Amps Sheer bright blue pink with blue and pink pearl', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MACH26.jpg'), ('Boys Go Crazy Dark purple with blue undertone', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MACH54.jpg')]
+产品价格：¥200
+产品说明：魅可魔幻星亮唇彩的色泽在光线下能反射夺目的莹彩，使双唇更添层次感。大粒珠光粉能反射和折射出石英或乳色水晶般的光亮。它能使您的双唇散射出彩虹般的光泽。不粘腻，轻薄水润，一抹即可。可以单独使用也可以涂在唇膏或其他唇彩之上以获得惊艳的效果。它散发魅可经典的淡淡香草味道。
+使用方法：可单独使用增加唇部光泽。也可叠加于其他唇膏之上使用。用唇刷更利于上色。
+
+-------------------------------------------------
+产品名字：魅可晶亮唇彩
+产品标题：Tinted Lipglass
+产品颜色：[('Ruby Woo 哑光鲜艳蓝调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT32.jpg'), ('Spice 中性裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT17.jpg'), ('Morange 亮橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT28.jpg'), ('Russian Red 浓郁蓝调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT20.jpg'), ('Impassioned 明亮暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT27.jpg'), ('Snob 亮自然粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT04.jpg'), ('Please Me 柔和玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT12.jpg'), ('Pink Noveau 中色调冷粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT13.jpg'), ('Saint Germain 亮冷调粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT16.jpg'), ('Girl About Town 亮蓝调紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT21.jpg'), ('Angel 明亮暖粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT23.jpg'), ('Explicit 金铜色带银色细闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT26.jpg'), ('Candy Yum Yum 霓虹粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT30.jpg'), ('Heroine 亮紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT31.jpg'), ('Candy Box 中调玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT40.jpg'), ('Goldfinch 金色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT46.jpg'), ('Dive Bar 明净紫色带蓝色珠光', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT54.jpg'), ('Purple Mocha 黑紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S3HT56.jpg')]
+产品价格：¥170
+产品说明：这款别致唇彩会为双唇带来水晶般的亮泽，为之镀上一层柔柔的光辉。这款唇彩是在唇笔及唇膏之后使用的定妆产品。为您带来持久的闪亮，呈现似有若无的柔亮或是惊艳的光泽。其中所含的霍霍巴油有助于使双唇柔软。该款柔色唇彩瓶身小巧轻便易于使用，海绵唇刷能快速为唇部均匀上色。
+使用方法：用唇刷上色。可单独使用或用于魅可唇膏之上。
+
+-------------------------------------------------
+产品名字：魅可淡彩润唇膏
+产品标题：Tendertalk Lip Balm
+产品颜色：[('Play With Me 透明红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC03.jpg'), ('Teddy Pink 透明亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC04.jpg'), ('Pretty Me Up 透明珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC02.jpg'), ('Candy Wrapped 透明粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC01.jpg'), ('Side Dish 透明梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC05.jpg')]
+产品价格：¥210
+产品说明：这是一款基于你的肤色打造专属色泽的智慧唇膏。将护肤技术融于其中，这支唇膏能在保持唇部柔软湿润的同时为唇部增添恰到好处的色彩。包装是一个闪闪发光的金属口红盒，有一种香草味。
+使用方法：直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可润采诱光唇彩
+产品标题：Cremesheen Glass
+产品颜色：[('Just Superb 中间色调的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7701.jpg'), ('Richer, Lusher 珊瑚桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7703.jpg'), ('Boy Bait 带珠光的淡米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7714.jpg'), ('Partial to Pink 带浅金珠光的浅奶油黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7715.jpg'), ('Double Dare 红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7704.jpg'), ('Deelight 中调中间色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MG7705.jpg'), ('Floating Lotus 磨砂柔软玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA603.jpg'), ('Pagoda 磨砂冷调粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMA605.jpg')]
+产品价格：¥200
+产品说明：这是一款融合了显色丰润唇膏的丰盈乳霜和光亮质地以及魅可晶亮唇彩的亮泽的唇膏。柔软舒适，无粘稠感。用唇彩头将它涂在其同名唇膏的外面一层，或在本身外面再涂一层。
+使用方法：可单独使用增加唇部光泽。也可叠加于其他唇膏之上使用。用唇刷更利于上色。
+
+-------------------------------------------------
+产品名字：魅可绒光丰莹唇彩
+产品标题：Plushglass
+产品颜色：[('Pretty Plush 带白色珠光的超柔软粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M73Y03.jpg'), ('Nice Buzz 带金色珠光的浅金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M73Y19.jpg')]
+产品价格：¥200
+产品说明：魅可绒光丰莹唇彩能为双唇带来珍珠般的华丽亮彩。使用起来极为舒适，效果性感层次丰富。它会为激活双唇使其温润如玉，且散发出阵阵香草气息。它能滋润抚平饱实您的嘴唇，使之看来更为健康莹润。该产品还含有维他命E以起到更好保护效果。
+使用方法：用唇刷上色。可单独使用或用于魅可唇膏之上。
+
+-------------------------------------------------
+产品名字：魅可珠圆玉润唇膏笔
+产品标题：Patent Polish Lip Pencil
+产品颜色：[('Clever 中调砖珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ16.jpg'), ('Pleasant 玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ01.jpg'), ('Spontaneous 珍珠柔紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ08.jpg'), ('Kittenish 紫粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ11.jpg')]
+产品价格：¥170
+产品说明：魅可珠圆玉润唇膏笔拥有独特的奶油润泽质地，让双唇保持柔软光滑，摆脱厚重和黏腻。旋转式设计，方便快速；圆润笔头，无需修整，10多种全新颜色让所有肤色都能从中找到完美匹配。
+使用方法：直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可珠圆玉润唇膏笔
+产品标题：Patent Polish Lip Pencil
+产品颜色：[('Clever 中调砖珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ16.jpg'), ('Ruby 中调玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ17.jpg'), ('Pleasant 玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ01.jpg'), ('Spontaneous 珍珠柔紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ08.jpg'), ('Innocent 裸浅褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ04.jpg'), ('Sultana 深紫葡萄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ03.jpg'), ('Kittenish 紫粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MRAJ11.jpg')]
+产品价格：¥170
+产品说明：魅可珠圆玉润唇膏笔拥有独特的奶油润泽质地，让双唇保持柔软光滑，摆脱厚重和黏腻。旋转式设计，方便快速；圆润笔头，无需修整，10多种全新颜色让所有肤色都能从中找到完美匹配。
+使用方法：直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可造型唇线笔
+产品标题：Lip Pencil
+产品颜色：[('Cherry 明亮正红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38005.jpg'), ('Redd 红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W920.jpg'), ('Spice 粉红肉桂色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38022.jpg'), ('Whirl 灰调玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38050.jpg'), ('Dervish 粉紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38051.jpg'), ('Subculture 粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38052.jpg'), ('In Synch 明亮黄粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38062.jpg'), ('Boldly Bare 灰调红褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38074.jpg'), ('Ruby Woo  复古哑光红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38091.jpg'), ('Cyber World 黑紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M38097.jpg'), ('Auburn 强烈橙红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W901.jpg'), ('Beet 鲜明粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W902.jpg'), ('Chicory 柔和桃棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W907.jpg'), ('Stripdown 奶油棕米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W934.jpg'), ('Cork 哑光金棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W908.jpg'), ('Magenta 鲜明粉紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W914.jpg'), ('Mahogany 强烈红棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W915.jpg'), ('Vino 强烈紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W924.jpg'), ('Oak 柔和米棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W925.jpg'), ('Burgundy 棕红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W933.jpg'), ('Talking Points 亮紫红蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W993.jpg'), ('Follow Your Heart 鲜艳明亮的蓝红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W994.jpg'), ('Nightingale 中调奶油梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W995.jpg'), ('Candy Yum-Yum 霓虹粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W996.jpg'), ('Fruit Cocktail 桃子珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W90C.jpg'), ('Heroine 亮紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W90F.jpg'), ('Half-Red 柔和紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W953.jpg'), ('Hover 丰富的焦糖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W957.jpg'), ('In Synch 明亮黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W962.jpg'), ('Naked Liner 轻中性色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W973.jpg'), ('Lasting Sensation 明亮珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W979.jpg'), ("Hip 'N' Happy 蓝粉色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W983.jpg'), ('Rosy Rim 柔和粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4W999.jpg'), ('Edge to Edge 灰调蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3800A.jpg'), ('Fruit Cocktail 浅蜜桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3800C.jpg'), ('Heroine   亮紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3800F.jpg')]
+产品价格：¥160
+产品说明：勾勒一副或娇俏或丰满的唇部线条，与心仪的他约会吧！此款唇线笔可用来为双唇塑性，勾线及填色。它柔滑丰润的质感极适于勾勒唇线或填唇色且色泽持久。该款产品有许多种颜色可供选择且可与各款唇膏贴合。唇线笔含抗氧化剂维他命E，因而润泽持久，而且唇线笔中还富含润肤成分使双唇水润不干燥。该产品既可单独使用也可与唇膏，唇彩搭配。
+使用方法：在魅可唇膏、唇彩之前或之后直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可持久丰润唇线笔
+产品标题：Pro Longwear Lip Pencil
+产品颜色：[('Oh Honey! 暖裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8826.jpg'), ('Nothing Sexier 偏白裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8827.jpg'), ('Posy Perfect 玫瑰粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8828.jpg'), ('In Anticipation 柔和黄调粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8810.jpg'), ('Dynamo 浓郁奶油粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8817.jpg'), ('High Energy 明亮奶油橘红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8818.jpg'), ('What a Blast! 明亮橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8805.jpg'), ('Voltage 三文鱼珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8825.jpg'), ('Cultured 中调裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8834.jpg'), ('DoubleTime 粉调棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8835.jpg'), ('In Control 偏棕淡紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8833.jpg'), ('Etcetera 奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8806.jpg'), ("Nice 'n' Spicy 肉桂粉色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8801.jpg'), ('Staunchly Stylish 粉米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8808.jpg'), ('Good Timing 浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8829.jpg'), ('Shock Value 明亮奶油粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8816.jpg'), ('Kiss Me Quick 黄调红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8807.jpg'), ('More to Love 浓郁冷粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8809.jpg'), ('Trust in Red 明亮冷调奶油红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8814.jpg'), ('He Said, She Said 砖红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8831.jpg'), ('Rebellious 梅子紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8830.jpg'), ('Dark Out 勃艮第梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8832.jpg'), ('Ms. Diva 浓郁酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8824.jpg'), ('Morning Coffee 暗玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8804.jpg'), ('Absolutely It 柔和勃艮第酒红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8803.jpg'), ('Bittersweet 浓郁棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MK8802.jpg')]
+产品价格：¥200
+产品说明：持久丰润唇线笔拥有新一代长效持妆科技。顺滑上妆，即可附着与唇部肌肤。高显色唇线笔能迅速刻画唇部。配方不易晕染，可保持较长时间。
+使用方法：在使用魅可唇膏或唇彩前后直接涂抹于唇部。用卷笔刀削尖或削小。
+
+-------------------------------------------------
+产品名字：魅可唇部磨砂膏
+产品标题：Lip Scrubtious
+产品颜色：[('Candied Nectar ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S53P01.jpg'), ('Fruit of Passion ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S53R01.jpg'), ('Summer Berry ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S53T01.jpg'), ('Sweet Vanilla ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4XX01.jpg'), ('Sweet Brown Sugar ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S53W01.jpg')]
+产品价格：¥160
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可淡彩润唇膏
+产品标题：Tendertalk Lip Balm
+产品颜色：[('Play With Me 透明红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC03.jpg'), ('Teddy Pink 透明亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC04.jpg'), ('Pretty Me Up 透明珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC02.jpg'), ('Candy Wrapped 透明粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC01.jpg'), ('Side Dish 透明梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2KC05.jpg')]
+产品价格：¥210
+产品说明：这是一款基于你的肤色打造专属色泽的智慧唇膏。将护肤技术融于其中，这支唇膏能在保持唇部柔软湿润的同时为唇部增添恰到好处的色彩。包装是一个闪闪发光的金属口红盒，有一种香草味。
+使用方法：直接使用于唇部。
+
+-------------------------------------------------
+产品名字：魅可焕采亮白粉饼
+产品标题：Lightful C + Coral Grass SPF30 / PA+++ Foundation
+产品颜色：[('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ04.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ02.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ08.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ07.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ01.jpg'), ('NC45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ09.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ06.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ03.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JJ05.jpg')]
+产品价格：¥400
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可定制无瑕粉底液
+产品标题：Studio Fix Fluid SPF15/PA++  Foundation Skin Balancing Complex
+产品颜色：[('N12 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH211.jpg'), ('NC15 白皙肤色 白皙肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH202.jpg'), ('N18 亚洲暖黄皮定制色 亚洲暖黄皮定制色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH201.jpg'), ('NC20 自然白皙肤色 自然白皙肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH203.jpg'), ('NC25 自然肤色 自然肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH204.jpg'), ('NC30 自然健康肤色 自然健康肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH205.jpg'), ('NC40 自然小麦肤色 自然小麦肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH208.jpg'), ('NC42 中间偏冷的蜜糖色肌肤 中间偏冷的蜜糖色肌肤', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH209.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH206.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYH207.jpg')]
+产品价格：¥320
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可定制水漾轻盈粉底液 SPF30/PA++
+产品标题：Studio Waterweight SPF 30 Foundation
+产品颜色：[('N18 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT24.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT03.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT01.jpg'), ('N12 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT25.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT04.jpg'), ('NC45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT10.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT05.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT02.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT06.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCT08.jpg')]
+产品价格：¥380
+产品说明：定制水漾轻盈粉底液蕴含保湿配方，能即时滋润肌肤。SPF 30防晒保护，适合各种肤质。长时间持妆，轻至中度遮盖力，贴合肌肤本色。
+使用方法：用手指、海绵或刷子取用。使用魅可#196斜角平头粉底刷打造自然无瑕妆效。
+
+-------------------------------------------------
+产品名字：魅可定制双用粉底液50ML
+产品标题：Studio Face and Body Foundation 50 ml
+产品颜色：[('N1 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C01.jpg'), ('C1 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C53.jpg'), ('C4 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C07.jpg'), ('C2 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C03.jpg'), ('N2 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C02.jpg'), ('N3 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C04.jpg'), ('C3 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C05.jpg'), ('N5 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C08.jpg'), ('C5 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C09.jpg'), ('C6 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C11.jpg'), ('N9 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C16.jpg'), ('C7 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C56.jpg'), ('N7 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3C58.jpg')]
+产品价格：¥300
+产品说明：这是一款包装更加小巧便携，中低度遮瑕的液体粉底，为你带来自然无暇的光泽效果，肌肤保湿滋润、妆效持久。120毫升装亦有贩售，不变配方，升级包装。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可定制双用粉底液
+产品标题：Studio Face and Body Foundation 120 ml
+产品颜色：[('C1 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A53.jpg'), ('N1 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A01.jpg'), ('N2 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A02.jpg'), ('C4 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A07.jpg'), ('C3 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A05.jpg'), ('C2 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A03.jpg'), ('N3 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A04.jpg'), ('N5 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A08.jpg'), ('C5 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A09.jpg'), ('C6 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW3A11.jpg')]
+产品价格：¥420
+产品说明：中低度遮瑕的液体粉底，为你带来无暇的自然光泽妆效，肌肤保湿滋润、妆效持久。50毫升装亦有贩售，不变配方，升级包装。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可定制柔雾保湿粉饼  SPF15/PA+
+产品标题：Studio Perfect SPF 15 Foundation Fortified Moisture-Fusion Complex 
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER02.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER01.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER05.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER06.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER03.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER04.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER07.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER08.jpg'), ('NC45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXER09.jpg')]
+产品价格：¥400
+产品说明：中度到高度的遮盖力与UVA/UVB SPF15/PA+的粉饼，长效持妆。滋润，不干裂的配方打造无瑕，自然哑光的妆感，吸收油脂去油光。注：产品不包含外盒，须另做购买。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可持久焕亮防水粉底液
+产品标题：Pro Longwear Nourishing Waterproof Foundation
+产品颜色：[('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE03.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE01.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE10.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE02.jpg'), ('NW13 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE22.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE18.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE04.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE05.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE06.jpg'), ('NW15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE09.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE11.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE12.jpg'), ('NW35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE13.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE19.jpg'), ('NC44 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE20.jpg'), ('NW18 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE23.jpg'), ('NW22 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE24.jpg'), ('N18 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXCE27.jpg')]
+产品价格：¥380
+产品说明：魅可带来最新最受欢迎的的持久焕亮防水粉底液，在原有基础上加入了防水配方，可以作为粉底或者遮瑕膏使用，为你带来持久妆容。这款无油防水产品有效防止影响妆容的因素。多种色号，提供中至高度肌肤遮盖力。
+使用方法：涂抹于脸部或身体上的暗斑用手指、海绵或刷子取用
+
+-------------------------------------------------
+产品名字：魅可海洋亮白粉饼
+产品标题：Lightful C MarineBright Formula SPF 25/PA+++ Foundation
+产品颜色：[('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG01.jpg'), ('NC 20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG02.jpg'), ('NC 25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG03.jpg'), ('NC 30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG04.jpg'), ('NC 35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG05.jpg'), ('NC 37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG06.jpg'), ('NC 40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG07.jpg'), ('NC 42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG08.jpg'), ('NC 45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYLG09.jpg')]
+产品价格：¥400
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可臻透亲肤提亮焕采乳
+产品标题：Next To Nothing Face Color
+产品颜色：[('Light Plus 浅米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E302.jpg'), ('Light 浅象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E301.jpg'), ('Medium 暖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E303.jpg'), ('Medium Plus 浅米褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E304.jpg'), ('Medium Dark 焦糖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E305.jpg'), ('Medium Deep 棕铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E306.jpg'), ('Dark 焦糖色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E307.jpg'), ('Dark Plus 棕褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E308.jpg'), ('Dark Deep 金铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S4E309.jpg')]
+产品价格：¥320
+产品说明：富含营养成分，焕发年轻，从内而外散发光泽。这纯粹的奶油色可以在妆前或妆后使用，给皮肤带来光彩。柔软光滑的质感滑过肌肤，在减少瑕疵和细纹的同时，滋润和保护肌肤。为获得更好效果，请使用面部刷或海绵。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可臻透亲肤蜜粉饼
+产品标题：Next To Nothing Powder / Pressed
+产品颜色：[('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44401.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44403.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44404.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44405.jpg'), ('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44402.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44406.jpg'), ('Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44407.jpg'), ('Dark Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44408.jpg'), ('Dark Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44409.jpg')]
+产品价格：¥290
+产品说明：奶油，轻巧质地的粉末，持久、高舒适。 顺滑的质感带有柔光增强效果，让您拥有更为健康有光泽的皮肤！同时帮助塑造一个自然通透的妆效。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可定制无瑕柔光散粉
+产品标题：Studio Fix Perfecting Powder
+产品颜色：[('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN02.jpg'), ('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN01.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN05.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN03.jpg'), ('Extra Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN10.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN04.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN06.jpg'), ('Rose ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN09.jpg')]
+产品价格：¥290
+产品说明：魅可定制无瑕柔光散粉是一款哑光定妆散粉。这款散粉含有的营养成分能让使用者不感到干燥。
+使用方法：搭配魅可190号刷子或167号刷子轻扫面部以打造轻薄妆容。搭配魅可专业底妆海绵以打造更加丝绒光滑的妆容。
+
+-------------------------------------------------
+产品名字：魅可矿质润泽粉底液 SPF15
+产品标题：Mineralize Moisture SPF15 Foundation
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y02.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y01.jpg'), ('NW13 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y19.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y08.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y03.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y04.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y05.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y06.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y07.jpg'), ('NC45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y10.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y12.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y13.jpg'), ('NW15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y20.jpg'), ('NW18 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y21.jpg'), ('NW22 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM2Y22.jpg')]
+产品价格：¥420
+产品说明：混合粉末，能够打造光学柔肤效果。提亮肤色的自然光感效果使肌肤呈现精美清爽活力，有内而外散发纯新光彩。SPF15添加了防晒功效。富含77种独特矿物体、乳木果和维生素E。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可矿质柔光蜜粉
+产品标题：Mineralize Foundation/Loose
+产品颜色：[('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T01.jpg'), ('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T02.jpg'), ('Extra Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T11.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T03.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T04.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T05.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_ML9T10.jpg')]
+产品价格：¥380
+产品说明：柔滑无痕的矿质蜜粉，展现出中调自然的丝缎般质地。用刷具轻扫可达到光滑焕采的面部妆效。其中的成分可帮助滋养肌肤，保持肌肤健康状态。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可丝柔粉底霜
+产品标题：Studio Tech
+产品颜色：[('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1K212.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1K211.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1K213.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1K214.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M1K215.jpg')]
+产品价格：¥380
+产品说明：魅可丝柔粉底霜是一款将水，润肤液和粉三者融合的产品。此款固体粉底霜的触感就如同一款柔润丝滑的乳液一般，能为肌肤带来哑光的粉底妆容。它易于调和便于上妆，贴合全脸；且清新怡神，为肌肤带来水润触感。它还能对脸部光线进行散射：使线条更柔和，妆容清逸无瑕。
+使用方法：用刷子或海绵上妆。手指、刷子或海绵晕开。
+
+-------------------------------------------------
+产品名字：魅可柔光炫彩粉底霜SPF15
+产品标题：Mineralize Foundation SPF 15
+产品颜色：[('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1404.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1401.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1402.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1403.jpg'), ('NC37 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1406.jpg'), ('NC42 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1408.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1407.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1405.jpg')]
+产品价格：¥420
+产品说明：乳霜状的中调自然底妆，妆感轻薄丝滑，极易涂抹，延展性强。富含大量水分因子，为你带来高度舒适的持妆体验，并提供SPF15的紫外线防护。大容量，配有高端奢华的粉底盒。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可海洋亮白气垫霜SPF50/PA++++
+产品标题：Lightful C + Coral Grass SPF 50/PA++++
+产品颜色：[('Light 自然白皙肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JM02.jpg'), ('Light Plus 自然肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JM03.jpg'), ('Extra Light 白皙肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JM01.jpg'), ('Medium 自然健康肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JM04.jpg'), ('Medium Plus 健康肤色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5JM05.jpg')]
+产品价格：¥320
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可定制无瑕柔光散粉
+产品标题：Studio Fix Perfecting Powder
+产品颜色：[('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN02.jpg'), ('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN01.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN05.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN03.jpg'), ('Extra Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN10.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN04.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN06.jpg'), ('Rose ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2HN09.jpg')]
+产品价格：¥290
+产品说明：魅可定制无瑕柔光散粉是一款哑光定妆散粉。这款散粉含有的营养成分能让使用者不感到干燥。
+使用方法：搭配魅可190号刷子或167号刷子轻扫面部以打造轻薄妆容。搭配魅可专业底妆海绵以打造更加丝绒光滑的妆容。
+
+-------------------------------------------------
+产品名字：魅可立体绒光腮红
+产品标题：Extra Dimension Blush
+产品颜色：[('Telling Glow 亮珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61121.jpg'), ('Just a Pinch 杏色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61116.jpg'), ('Fairly Precious 香槟粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61120.jpg'), ('Rosy Cheeks 蓝调玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61113.jpg'), ('Hard to Get 勃艮第暖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61122.jpg'), ('Cheeky Bits 珊瑚粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61117.jpg'), ('Hushed Tone 蜜桃粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61114.jpg'), ('Faux Sure! 暖粉紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61115.jpg'), ('Into the Pink 童话粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61111.jpg'), ('Sweets for My Sweet 中调粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61112.jpg'), ('Wrapped Candy 梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61119.jpg')]
+产品价格：¥280
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可柔彩矿质腮红
+产品标题：Mineralize Blush
+产品颜色：[('Warm Soul 带金色珠光的中调米金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N46.jpg'), ('Petal Power 带金色亮片的珊瑚粉金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N50.jpg'), ('Love Thing 带金色珠光的灰调勃艮第色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N45.jpg'), ('Dainty 带金色珠光的浅黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N42.jpg'), ('Gentle 带金色珠光的树莓色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N35.jpg'), ('New Romance 桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N55.jpg')]
+产品价格：¥280
+产品说明：魅可柔彩矿质腮红经过精工细熬，方达到轻薄的上妆效果。您可以轻轻地刷上一层后再刷另一层，效果依然通透，为您的颧骨处带来珍珠般的晶亮光彩。
+使用方法：选择合适的刷子轻扫腮红。抖掉余粉刷于面部晕开。
+
+-------------------------------------------------
+产品名字：魅可臻透亲肤蜜粉饼
+产品标题：Next To Nothing Powder / Pressed
+产品颜色：[('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44401.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44403.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44404.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44405.jpg'), ('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44402.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44406.jpg'), ('Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44407.jpg'), ('Dark Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44408.jpg'), ('Dark Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44409.jpg')]
+产品价格：¥290
+产品说明：奶油，轻巧质地的粉末，持久、高舒适。 顺滑的质感带有柔光增强效果，让您拥有更为健康有光泽的皮肤！同时帮助塑造一个自然通透的妆效。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可柔光炫彩饼
+产品标题：Mineralize Skinfinish Natural
+产品颜色：[('Medium Dark 焦糖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E03.jpg'), ('Light 淡米黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E01.jpg'), ('Medium Deep 丰富的金檀色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E10.jpg'), ('Dark 深焦糖色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E05.jpg'), ('Light Plus 米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E13.jpg'), ('Medium 柔润奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E02.jpg'), ('Medium Plus 黄褐米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E09.jpg'), ('Give Me Sun! 夏日浅桃黄褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E11.jpg'), ('Sun Power 深青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E12.jpg'), ('Dark Deep 丰富的黄金青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E14.jpg'), ('Medium Golden 焦糖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E15.jpg'), ('Medium Tan ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E16.jpg'), ('Dark Golden ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E17.jpg'), ('Dark Tan ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E18.jpg'), ('Dark Deepest ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E19.jpg')]
+产品价格：¥340
+产品说明：奢华球面粉饼，令面部肌肤自然、粉嫩、立体。轻微覆盖皮肤。可作粉底或全天补妆之用。全新配镜粉饼。
+使用方法：用刷子上妆。
+
+-------------------------------------------------
+产品名字：魅可柔光矿质修容饼
+产品标题：Mineralize Skinfinish
+产品颜色：[('Lightscapade 带多重亮片的柔软米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1331.jpg'), ('Cheeky Bronze 带金色亮片的柔软珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1334.jpg'), ('Soft &amp; Gentle 镀金青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1329.jpg'), ('Gold Deposit 带偏光的柔和金青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1328.jpg'), ('Global Glow 带银色光泽的中性棕褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1335.jpg'), ('Warm Rose  蜡笔粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1340.jpg')]
+产品价格：¥340
+产品说明：奢华天鹅绒粉饼，膏状金属色感。用于脸颊和眉毛，具有增亮效果，可提升脸部肌肤光泽。全新窗格粉饼。
+使用方法：用刷子上妆。
+
+-------------------------------------------------
+产品名字：魅可精采薄透蜜粉饼
+产品标题：Select Sheer/Pressed
+产品颜色：[('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02201.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02203.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02204.jpg')]
+产品价格：¥290
+产品说明：富含维他命E、C和卵磷脂，拥有轻盈、柔滑、薄透的超细致粉末，按压成型。易于上妆和上色，能够有效模糊细纹却不会破坏妆容。吸收油脂，控制面部油光，展现清爽如丝缎般柔和的妆效，让肌肤充满天然活力。并保护滋润肌肤，令皮肤表现更佳。
+使用方法：用散粉刷或粉扑上妆。
+
+-------------------------------------------------
+产品名字：魅可定制无瑕蜜粉饼
+产品标题：Studio Careblend/Pressed Powder
+产品颜色：[('Light 象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ0L01.jpg'), ('Medium 柔软的奶油米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ0L03.jpg'), ('Medium Dark 焦糖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ0L05.jpg'), ('Medium Plus 米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ0L04.jpg')]
+产品价格：¥290
+产品说明：柔软，乳霜状的粉末，提供平滑清爽的哑光妆效。富含成分，可帮助肌肤感觉光滑舒适。
+使用方法：用刷子或粉扑沾取用于面部。
+
+-------------------------------------------------
+产品名字：魅可持久哑光蜜粉饼
+产品标题：Pro Longwear Powder/Pressed
+产品颜色：[('Medium Golden ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K13.jpg'), ('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K01.jpg'), ('Light Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K02.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K03.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K04.jpg'), ('Medium Deep ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K06.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K05.jpg'), ('Medium Tan ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K10.jpg'), ('Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6K07.jpg')]
+产品价格：¥290
+产品说明：魅可持久哑光蜜粉饼，为肌肤增添柔感哑光质感。
+使用方法：用粉扑或刷子取用于脸部。
+
+-------------------------------------------------
+产品名字：魅可立体绒光修容饼
+产品标题：Extra Dimension Highlighter
+产品颜色：[('DoubleGleam 细闪米黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK19.jpg'), ('Oh, Darling! 金属金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK05.jpg'), ('Show Gold 蜜桃粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK18.jpg'), ('Glow With It 多闪光软桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK06.jpg'), ('Superb 古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK14.jpg'), ('Beaming Blush 金闪粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK20.jpg'), ('Soft Frost 浅紫罗兰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK21.jpg'), ('Whisper of Gilt Light soft white with shimmery sheen', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MLGK01.jpg')]
+产品价格：¥340
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可柔光矿质修容饼
+产品标题：Mineralize Skinfinish
+产品颜色：[('Lightscapade 带多重亮片的柔软米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1331.jpg'), ('Cheeky Bronze 带金色亮片的柔软珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1334.jpg'), ('Global Glow 带银色光泽的中性棕褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1335.jpg')]
+产品价格：¥340
+产品说明：奢华天鹅绒粉饼，膏状金属色感。用于脸颊和眉毛，具有增亮效果，可提升脸部肌肤光泽。全新窗格粉饼。
+使用方法：用刷子上妆。
+
+-------------------------------------------------
+产品名字：魅可时尚胭脂（1.3克装）
+产品标题：Powder Blush / Small
+产品颜色：[('Bright Response 活力浅橘色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5T38K.jpg'), ('News Flash! 珠光橘红橘红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5T38F.jpg'), ('Never Say Never 深猩红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5T38E.jpg'), ('Bright Pink 热情玫粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5T38G.jpg'), ('Saucy Miss 亮蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S5T38H.jpg')]
+产品价格：¥155
+产品说明：专为双颊和面部提供鲜艳明亮的颜色。上色均匀轻薄，自然妆效。此款产品为魅可时尚胭脂1.5克便携版。
+使用方法：选择合适的刷子轻扫腮红。抖掉余粉刷于面部晕开。
+
+-------------------------------------------------
+产品名字：魅可柔光炫彩饼
+产品标题：Mineralize Skinfinish Natural
+产品颜色：[('Dark 深焦糖色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E05.jpg'), ('Light Plus 米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E13.jpg'), ('Medium Plus 黄褐米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E09.jpg'), ('Give Me Sun! 夏日浅桃黄褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E11.jpg'), ('Sun Power 深青铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E12.jpg'), ('Medium Golden 焦糖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E15.jpg'), ('Dark Golden ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT7E17.jpg')]
+产品价格：¥340
+产品说明：奢华球面粉饼，令面部肌肤自然、粉嫩、立体。轻微覆盖皮肤。可作粉底或全天补妆之用。全新配镜粉饼。
+使用方法：用刷子上妆。
+
+-------------------------------------------------
+产品名字：魅可时尚胭脂
+产品标题：Powder Blush
+产品颜色：[('Peaches 纯桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M39H03.jpg'), ('Burnt Pepper 暗橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2205J.jpg'), ('Foolish Me 活泼的粉红珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4RM03.jpg'), ('Peachykeen 鲜亮桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4RM07.jpg'), ('Margin 带金色亮片的蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22016.jpg'), ('Well Dressed 完美粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22044.jpg'), ('Modern Mandarin 红橙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2201M.jpg'), ('Fleur Power 柔和的亮粉珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22013.jpg'), ('Frankly Scarlet 玫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22014.jpg'), ('Melba 柔和珊瑚蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22017.jpg'), ('Prism Muted pinkish-brown', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22022.jpg'), ('Style 带光泽的珊瑚蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22029.jpg'), ('Dame 精致粉蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M22045.jpg'), ('Sunbasque 带珠光的桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4RM10.jpg'), ('Lovecloud 明亮的中调粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2201K.jpg'), ('Peony Petal 明亮的蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2201L.jpg'), ('Pinch O’ Peach  桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206T.jpg'), ('Pink Swoon  柔糖果粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206R.jpg'), ('Full Fuchsia  亮深紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206L.jpg'), ('Swiss Chocolate  柔深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206P.jpg'), ('Sketch  紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206N.jpg'), ('Film Noir 柔巧克力色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M2206M.jpg')]
+产品价格：¥230
+产品说明：为双颊和面部提供鲜艳明亮的颜色。上色均匀轻薄，自然妆效.
+使用方法：选择合适的刷子轻扫腮红。抖掉余粉刷于面部晕开。
+
+-------------------------------------------------
+产品名字：魅可立体绒光腮红
+产品标题：Extra Dimension Blush
+产品颜色：[('Telling Glow 亮珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61121.jpg'), ('Just a Pinch 杏色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61116.jpg'), ('Fairly Precious 香槟粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61120.jpg'), ('Rosy Cheeks 蓝调玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61113.jpg'), ('Hard to Get 勃艮第暖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61122.jpg'), ('Cheeky Bits 珊瑚粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61117.jpg'), ('Hushed Tone 蜜桃粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61114.jpg'), ('Faux Sure! 暖粉紫色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61115.jpg'), ('Into the Pink 童话粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61111.jpg'), ('Sweets for My Sweet 中调粉', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61112.jpg'), ('Wrapped Candy 梅子色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S61119.jpg')]
+产品价格：¥280
+产品说明：暂无
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：腮红/魅可专业彩妆盘
+产品标题：Powder Blush / Pro Palette Refill Pan
+产品颜色：[('Burnt Pepper 暖陶土色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC5J.jpg'), ('Peaches 纯桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M3CA03.jpg'), ('Melba 柔和的珊瑚蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC17.jpg'), ('Style 带光泽的珊瑚蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC29.jpg'), ('Peachykeen 鲜亮桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4YA07.jpg'), ('Fleur Power 柔和的亮粉珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC13.jpg'), ('Well Dressed 完美粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC44.jpg'), ('Frankly Scarlet Vivid rose-red', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC14.jpg'), ('Margin 带金色亮片的蜜桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC16.jpg'), ('Dame 精致粉蓝色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC45.jpg'), ('Devil 亮橘珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC5L.jpg'), ('Full Fuchsia  亮深紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6L.jpg'), ('Film Noir 柔巧克力色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6M.jpg'), ('Sketch  紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6N.jpg'), ('Swiss Chocolate  柔深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6P.jpg'), ('Pink Swoon  柔糖果粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6R.jpg'), ('Pinch O’ Peach  桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M0PC6T.jpg')]
+产品价格：¥180
+产品说明：此款腮红色泽饱满。调和上妆皆极为方便且效果持久，您能根据自己的喜好调配使用。而将其置入专业彩妆盘中则能更好地保存和携带。
+使用方法：选择合适的刷子轻扫腮红。抖掉余粉刷于面部晕开。
+
+-------------------------------------------------
+产品名字：魅可时尚持久胭脂
+产品标题：Pro Longwear Blush
+产品颜色：[('Blush All Day 淡玫瑰米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX03.jpg'), ('Stay by Me 淡蜜桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX02.jpg'), ('Whole Lotta Love 淡蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX10.jpg'), ('Rosy Outlook 淡黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX06.jpg'), ('Stay Pretty 光线明亮的蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX07.jpg'), ('Make You Mine 灰调三文鱼色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX11.jpg'), ('I’m a Lover 粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX12.jpg'), ('Eternal Sun 暖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX09.jpg'), ("Baby Don't Go 轻爽米色", 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX01.jpg'), ('Fleeting Romance  珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX13.jpg'), ('Stubborn 中调玫瑰紫红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MMCX04.jpg')]
+产品价格：¥280
+产品说明：一款轻薄、不褪色的腮红。超细滑粉质涂抹顺滑，易延展。既可打造滋润自然的妆效，亦可层层叠加，打造明亮戏剧化的妆效。
+使用方法：选择合适的刷子轻扫腮红抖掉余粉刷于面部晕开
+
+-------------------------------------------------
+产品名字：魅可柔彩矿质腮红
+产品标题：Mineralize Blush
+产品颜色：[('Warm Soul 带金色珠光的中调米金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N46.jpg'), ('Love Joy 带金色珠光的中调暖棕色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N44.jpg'), ('Petal Power 带金色亮片的珊瑚粉金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N50.jpg'), ('Love Thing 带金色珠光的灰调勃艮第色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N45.jpg'), ('Dainty 带金色珠光的浅黄粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N42.jpg'), ('Ray Beam 柔和粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P001.jpg'), ('Gentle 带金色珠光的树莓色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N35.jpg'), ('New Romance 桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N55.jpg'), ('Gleeful 带金色珠光的灰调深蓝粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N43.jpg'), ('Just A Wisp 浅粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MT1N54.jpg'), ('Happy-Go-Rosy Midtone rosy pink', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P012.jpg'), ('Like Me, Love Me Bright orange coral', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2P007.jpg')]
+产品价格：¥280
+产品说明：魅可柔彩矿质腮红经过精工细熬，方达到轻薄的上妆效果。您可以轻轻地刷上一层后再刷另一层，效果依然通透，为您的颧骨处带来珍珠般的晶亮光彩。
+使用方法：选择合适的刷子轻扫腮红。抖掉余粉刷于面部晕开。
+
+-------------------------------------------------
+产品名字：魅可时尚幻彩霜
+产品标题：Cream Colour Base
+产品颜色：[('Pearl 带白色亮片的淡金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR05.jpg'), ('Hush 带白色亮片的柔和桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR09.jpg'), ('Improper Copper 带金色的古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR21.jpg')]
+产品价格：¥190
+产品说明：魅可时尚幻彩霜，霜状质地，蕴含润肤成分，打造多种薄透、润泽的妆效；根据使用方式，您可以打造出薄透或浓郁妆效。特别的产品配方，让产品可有多种用途，可直接涂抹于肌肤、眼部或唇部，或覆盖粉底、保湿霜或粉饼。无香精。
+使用方法：用于眼部、脸部及身体用一把干净刷子或者海绵头蘸上产品用手指或适合的刷子晕开Fawntastic和Black不建议用于唇部Fabulush, Improper Copper, Bamboo, Pink Shock, Vintage Rose 和 Premeditated不建议用于眼部
+
+-------------------------------------------------
+产品名字：魅可唇颊淡彩霜
+产品标题：Casual Colour
+产品颜色：[('Weekend Getaway 酷感玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9003.jpg'), ('Young at Heart 亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9023.jpg'), ('For Your Amusement 柔亮粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9025.jpg'), ('Hi Jinks! 亮珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9022.jpg'), ('Lazy Sunday 浅粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9001.jpg'), ('Keep It Loose 温暖的桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9011.jpg'), ('Out for Fun 冷调珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9012.jpg'), ('Relaxation 温暖的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9007.jpg'), ('Have A Lovely Day! 中性裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9009.jpg')]
+产品价格：¥230
+产品说明：和其他乳霜质地的唇颊产品不同的是，它轻薄的好像没有使用一样。乳霜舒适质地让唇部和脸颊滋润保湿。富含维他命E和其他滋养成分，营养肌肤与双唇。湿润质地让肌肤散发自然光泽。
+使用方法：用手指或刷子直接用于唇部和脸部。
+
+-------------------------------------------------
+产品名字：魅可定制无瑕修颜棒
+产品标题：Studio Fix Perfecting Stick
+产品颜色：[('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH04.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH01.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH02.jpg'), ('NC50 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH08.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH03.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH05.jpg'), ('NC40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH06.jpg'), ('NC45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH07.jpg'), ('NW15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH09.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH10.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH11.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH12.jpg'), ('NW35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH13.jpg'), ('NW40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH14.jpg'), ('NW45 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH15.jpg'), ('NW50 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S2CH16.jpg')]
+产品价格：¥210
+产品说明：一款用于遮盖黑眼圈、粉刺和其他肌肤瑕疵的修颜笔，圆圆的末端可以进行修颜。魅可定制无瑕修颜棒质地易推开，有着中度遮瑕力，打造与肌肤融为一体的哑光妆感。魅可定制无瑕修颜棒体积小巧便于携带和上妆，是理想的补妆产品。
+使用方法：直接上妆或者搭配魅可195号刷子。用手、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可持久焕亮遮瑕乳
+产品标题：Pro Longwear Concealer
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT902.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT903.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT901.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT909.jpg'), ('NW15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT908.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT916.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT910.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT904.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT911.jpg'), ('NW35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT912.jpg'), ('NW40 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MGT913.jpg')]
+产品价格：¥230
+产品说明：轻盈柔畅的遮瑕膏，有效遮盖瑕疵、黑斑和黑眼圈，打造舒适、哑光、自然的妆容，呈现光滑的无暇肌肤。
+使用方法：直接上妆或者搭配专业粉底刷。用手、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可定制遮瑕膏
+产品标题：Studio Finish Concealer / Pro Palette Refill Pan
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM02.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM01.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM25.jpg'), ('W10 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM03.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM04.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM07.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM08.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM09.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MYCM26.jpg')]
+产品价格：¥130
+产品说明：魅可定制遮瑕膏现提供单片装，可以用来加入您的自定义调色盘。润肤奶油配方，为肌肤带来平滑持久的舒适感，遮瑕的同时增添自然的哑光感。该定制遮瑕膏还富含抗氧化因子，能帮助吸收多余油脂，为肌肤提供维他命A和E。
+使用方法：直接用手指或遮瑕刷涂抹于脸部                  用手指或刷子混合
+
+-------------------------------------------------
+产品名字：魅可丝柔遮瑕膏 SPF35
+产品标题：Studio Finish SPF 30+ Concealer
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45026.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45013.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45014.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45019.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45015.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M45020.jpg')]
+产品价格：¥210
+产品说明：这是一款轻薄丝柔的哑光遮瑕膏。为肌肤提供持久平滑的瑕疵遮盖力。它防水，无香料。该款轻质含润肤成分的高浓度遮瑕膏，用一点点便足以遮盖面部的瑕疵，同时均匀肤色。它能有效遮盖痘痘、瑕疵、痣、纹身及胎记。除了含有抗氧化剂（维他命A和维他命E的衍生物），它还含有二氧化硅以吸去多余油脂。该遮瑕膏的防晒指数为35且有多款颜色以供选择。您可以用中毛或硬毛化妆刷（试用242号刷），乳胶化妆棉或指尖来涂抹。
+使用方法：直接用手或遮瑕刷上遮瑕乳。用手、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可精准遮瑕乳
+产品标题：Select Cover-Up
+产品颜色：[('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02107.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02121.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02103.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02106.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M02108.jpg')]
+产品价格：¥210
+产品说明：液体状遮瑕产品，轻薄无感，打造裸妆。挤出后要调匀使用，能提亮暗沉肌肤，遮盖瑕疵，均匀肤色。打造无瑕肌肤。既可用来打底妆亦可单独使用。无瑕肤质，宛若天成。
+使用方法：直接用手或遮瑕刷上遮瑕乳用手、海绵或刷子晕开
+
+-------------------------------------------------
+产品名字：魅可矿质遮瑕霜
+产品标题：Mineralize Concealer
+产品颜色：[('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT10.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT12.jpg'), ('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT09.jpg'), ('NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT17.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT02.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT03.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT04.jpg'), ('NW35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT05.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MKFT11.jpg')]
+产品价格：¥230
+产品说明：乳状遮瑕霜，富含浓缩矿物质和滋养植物精华，极易涂抹，且保湿效果极好。上妆感受舒适，持妆长久。提供中度遮瑕效果，呈现自然光泽。
+使用方法：直接用手或遮瑕刷上遮瑕乳用手、海绵或刷子晕开
+
+-------------------------------------------------
+产品名字：魅可润泽遮瑕霜
+产品标题：Select Moisturecover
+产品颜色：[('NC15 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN01.jpg'), ('NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN02.jpg'), ('NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN03.jpg'), ('NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN04.jpg'), ('NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN09.jpg'), ('NW25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN10.jpg'), ('NW30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M4XN11.jpg')]
+产品价格：¥210
+产品说明：此款润泽遮瑕霜是一款管状的奢华易调和水润遮瑕产品。用所配海绵棒蘸取点在所需位置：然后轻轻调开即令妆容水感光润。多用几层则会增强遮盖效果。用194 号笔轻点在局部。它能柔化面部线条。您也可以在下眼睑及其他柔嫩的肌肤上放心使用。若将其充分晕染开则会为您带来柔润自然的妆容。
+使用方法：直接用手或遮瑕刷上遮瑕乳用手、海绵或刷子晕开
+
+-------------------------------------------------
+产品名字：魅可定制双色遮瑕乳
+产品标题：Studio Conceal and Correct Duo
+产品颜色：[('Pale yellow / Pale pink ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTLY01.jpg'), ('Mid peach / Mid yellow ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTLY02.jpg')]
+产品价格：¥260
+产品说明：魅可专业双色遮瑕乳，通过两色调节肌肤色调，包含四种新的颜色组合：浅，中，深中和暗色。富含乳木果油和维生素E和C，均匀肤色，明显减少细纹皱纹。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可定制双色遮瑕膏
+产品标题：Studio Finish Concealer Duo
+产品颜色：[('W10 / NC20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXY401.jpg'), ('NW20 / NC25 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXY402.jpg'), ('NW25 / NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXY403.jpg'), ('NW30 / NC35 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MXY404.jpg')]
+产品价格：¥330
+产品说明：轻盈、奶油质地的遮瑕膏，持久隐形遮盖各种皮肤瑕疵。防水，无香料。这种润肤型，轻量化遮瑕膏可高效掩饰皮肤瑕疵和肤色不均。它有效地覆盖黑眼圈，斑点，痣，纹身和胎记。
+使用方法：用手指、刷子或海绵用于眼部。
+
+-------------------------------------------------
+产品名字：魅可定制遮瑕笔
+产品标题：Studio Chromagraphic Pencil
+产品颜色：[('NC15 / NW20 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTNY03.jpg'), ('NW25 / NC30 ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTNY02.jpg')]
+产品价格：¥170
+产品说明：这款奶油质地的遮瑕笔非常适合用作描绘，或勾勒和定义彩妆。线条大胆流畅，色彩丰富。
+使用方法：可用于眼部、脸部和身体。可用于身体彩绘。适合和其他持久产品一起使用。
+
+-------------------------------------------------
+产品名字：魅可保湿喷雾
+产品标题：Prep + Prime Fix +
+产品颜色：[('Original 自然原味 自然原味气息，水润无负担', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW5K01.jpg'), ('Lavender 柔情薰衣草 怡人的薰衣草香气，清新迷人', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWR301.jpg'), ('Rose 淡雅玫瑰 轻柔的玫瑰芳香，温柔优雅', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWR201.jpg')]
+产品价格：¥200
+产品说明：一种轻薄，矿物质丰富的喷雾，可清醒焕活肌肤也可定妆。会让上妆的肌肤的均匀光滑。<br>喷雾新旧包装交替中。<br>
+使用方法：将喷雾离脸15厘米左右使用。可单独使用或用于定妆。
+
+-------------------------------------------------
+产品名字：魅可妆前提亮乳
+产品标题：Prep + Prime Highlighter
+产品颜色：[('Light 白象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L05.jpg'), ('Radiant Rose 淡贝壳粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L03.jpg'), ('Medium Plus 深米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L07.jpg'), ('Medium 暖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L06.jpg'), ('Light Boost 柔和的黄奶油色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L01.jpg'), ('Bright Forecast 中调的桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L02.jpg'), ('Dark Deep 金古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L09.jpg')]
+产品价格：¥260
+产品说明：钢笔式设计的提亮乳，为你带来柔软明亮肌肤。提亮你认为暗沉的肤色，柔软光滑的质地，使用起来自然顺畅。可用于妆前提亮、妆前眼霜或完妆提亮。
+使用方法：直接用刷子用于高光部位。用于全脸。或在粉底上使用。用手指充分晕染。
+
+-------------------------------------------------
+产品名字：魅可臻透亲肤蜜粉饼
+产品标题：Next To Nothing Powder / Pressed
+产品颜色：[('Light ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44401.jpg'), ('Medium ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44403.jpg'), ('Medium Plus ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44404.jpg'), ('Medium Dark ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S44405.jpg')]
+产品价格：¥290
+产品说明：奶油，轻巧质地的粉末，持久、高舒适。 顺滑的质感带有柔光增强效果，让您拥有更为健康有光泽的皮肤！同时帮助塑造一个自然通透的妆效。
+使用方法：暂无
+
+-------------------------------------------------
+产品名字：魅可幻丽星辰细粉
+产品标题：Pigment
+产品颜色：[('Rose  玫瑰色带铜闪', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8H52.jpg'), ('Vanilla  柔光象牙白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8H13.jpg'), ('Gold 丝滑高闪金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8T01.jpg'), ('Old Gold  High frosted tarnished gold', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8L53.jpg'), ('Melon 柔光亮金桃粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8K42.jpg'), ('Copper Smooth, high-shine copper', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MF8T03.jpg')]
+产品价格：¥220
+产品说明：华丽的眼妆，从白天的纯粹缥缈到夜晚的强烈闪耀。互补色调的眼影提供星辰粉末 的妆效，为一整季提供创新的色彩。魅可创新推出一款高珠光效果，霜状幻丽星辰眼影，干用呈现半透明闪亮的完妆效果，湿用呈现高度闪亮夸张的遮盖力。
+使用方法：用干刷子或湿刷子沾取用于需要的部位。
+
+-------------------------------------------------
+产品名字：魅可唇颊淡彩霜
+产品标题：Casual Colour
+产品颜色：[('Weekend Getaway 酷感玫瑰色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9003.jpg'), ('Relaxation 温暖的粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9007.jpg'), ('Keep It Loose 温暖的桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9011.jpg'), ('Have A Lovely Day! 中性裸色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9009.jpg'), ('Out for Fun 冷调珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9012.jpg'), ('Lazy Sunday 浅粉红色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MM9001.jpg')]
+产品价格：¥230
+产品说明：和其他乳霜质地的唇颊产品不同的是，它轻薄的好像没有使用一样。乳霜舒适质地让唇部和脸颊滋润保湿。富含维他命E和其他滋养成分，营养肌肤与双唇。湿润质地让肌肤散发自然光泽。
+使用方法：用手指或刷子直接用于唇部和脸部。
+
+-------------------------------------------------
+产品名字：魅可时尚幻彩霜
+产品标题：Cream Colour Base
+产品颜色：[('Pearl 带白色亮片的淡金色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR05.jpg'), ('Hush 带白色亮片的柔和桃色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR09.jpg'), ('Improper Copper 带金色的古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTPR21.jpg')]
+产品价格：¥190
+产品说明：魅可时尚幻彩霜，霜状质地，蕴含润肤成分，打造多种薄透、润泽的妆效；根据使用方式，您可以打造出薄透或浓郁妆效。特别的产品配方，让产品可有多种用途，可直接涂抹于肌肤、眼部或唇部，或覆盖粉底、保湿霜或粉饼。无香精。
+使用方法：用于眼部、脸部及身体用一把干净刷子或者海绵头蘸上产品用手指或适合的刷子晕开Fawntastic和Black不建议用于唇部Fabulush, Improper Copper, Bamboo, Pink Shock, Vintage Rose 和 Premeditated不建议用于眼部
+
+-------------------------------------------------
+产品名字：魅可妆前滋润校色霜 SPF30/PA+++
+产品标题：Prep + Prime CC Colour Correcting SPF 30
+产品颜色：[('Adjust 桃米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T01.jpg'), ('Neutralize 黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T02.jpg'), ('Recharge 杏色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T04.jpg'), ('Illuminate 薰衣草色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T03.jpg')]
+产品价格：¥350
+产品说明：多重功效的配方，平衡肌肤色调，增加肌肤光泽同时减少油光，并能保护肌肤免受紫外线伤害。这种滋润妆前霜能够保持肌肤清爽。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可保湿喷雾
+产品标题：Prep + Prime Fix +
+产品颜色：[('Original 自然原味 自然原味气息，水润无负担', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MW5K01.jpg'), ('Rose 淡雅玫瑰 轻柔的玫瑰芳香，温柔优雅', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWR201.jpg'), ('Lavender 柔情薰衣草 怡人的薰衣草香气，清新迷人', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MWR301.jpg')]
+产品价格：¥200
+产品说明：一种轻薄，矿物质丰富的喷雾，可清醒焕活肌肤也可定妆。会让上妆的肌肤的均匀光滑。<br>喷雾新旧包装交替中。<br>
+使用方法：将喷雾离脸15厘米左右使用。可单独使用或用于定妆。
+
+-------------------------------------------------
+产品名字：魅可妆前滋润校色霜 SPF30/PA+++
+产品标题：Prep + Prime CC Colour Correcting SPF 30
+产品颜色：[('Adjust 桃米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T01.jpg'), ('Neutralize 黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T02.jpg'), ('Recharge 杏色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T04.jpg'), ('Illuminate 薰衣草色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T03.jpg')]
+产品价格：¥350
+产品说明：多重功效的配方，平衡肌肤色调，增加肌肤光泽同时减少油光，并能保护肌肤免受紫外线伤害。这种滋润妆前霜能够保持肌肤清爽。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可妆前提亮乳
+产品标题：Prep + Prime Highlighter
+产品颜色：[('Light 白象牙色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L05.jpg'), ('Radiant Rose 淡贝壳粉色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L03.jpg'), ('Medium Plus 深米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L07.jpg'), ('Medium 暖米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L06.jpg'), ('Light Boost 柔和的黄奶油色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L01.jpg'), ('Bright Forecast 中调的桃珊瑚色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L02.jpg'), ('Dark Deep 金古铜色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MJ2L09.jpg')]
+产品价格：¥260
+产品说明：钢笔式设计的提亮乳，为你带来柔软明亮肌肤。提亮你认为暗沉的肤色，柔软光滑的质地，使用起来自然顺畅。可用于妆前提亮、妆前眼霜或完妆提亮。
+使用方法：直接用刷子用于高光部位。用于全脸。或在粉底上使用。用手指充分晕染。
+
+-------------------------------------------------
+产品名字：魅可晶亮润肤乳
+产品标题：Strobe Cream
+产品颜色：[('Pinklite Pink pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L01.jpg'), ('Peachlite Peach pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L05.jpg'), ('Goldlite Gold pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L04.jpg')]
+产品价格：¥330
+产品说明：魅可晶亮润肤乳能解决肌肤问题。其能力来自专利植物性药材；而它所富含的维他命元素和绿茶因子则能立刻唤醒肌肤，提亮肤色并为肌肤补充足够的水分。其漫散射微粒和抗氧化剂能纯净提亮肤色。无论您在阳光中还是镁光灯下，都能提升面部的光感效果。
+使用方法：用手指沾取适量润肤乳涂抹于脸部。
+
+-------------------------------------------------
+产品名字：魅可妆前滋润校色霜 SPF30/PA+++
+产品标题：Prep + Prime CC Colour Correcting SPF 30
+产品颜色：[('Adjust 桃米色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T01.jpg'), ('Neutralize 黄色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T02.jpg'), ('Recharge 杏色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T04.jpg'), ('Illuminate 薰衣草色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MR6T03.jpg')]
+产品价格：¥350
+产品说明：多重功效的配方，平衡肌肤色调，增加肌肤光泽同时减少油光，并能保护肌肤免受紫外线伤害。这种滋润妆前霜能够保持肌肤清爽。
+使用方法：用海绵或刷子上妆。用手指、海绵或刷子晕开。
+
+-------------------------------------------------
+产品名字：魅可晶亮润肤乳
+产品标题：Strobe Cream
+产品颜色：[('Pinklite Pink pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L01.jpg'), ('Silverlite Silver pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L02.jpg'), ('Peachlite Peach pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L05.jpg'), ('Goldlite Gold pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L04.jpg'), (' ', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_M6HE01.jpg'), ('Redlite Red Pearls', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_S48L03.jpg')]
+产品价格：¥330
+产品说明：魅可晶亮润肤乳能解决肌肤问题。其能力来自专利植物性药材；而它所富含的维他命元素和绿茶因子则能立刻唤醒肌肤，提亮肤色并为肌肤补充足够的水分。其漫散射微粒和抗氧化剂能纯净提亮肤色。无论您在阳光中还是镁光灯下，都能提升面部的光感效果。
+使用方法：用手指沾取适量润肤乳涂抹于脸部。
+
+-------------------------------------------------
+产品名字：魅可海洋亮白光彩隔离乳 SPF30/PA+++
+产品标题：Lightful C Tinted Cream SPF 30 with Radiance Booster
+产品颜色：[('Extra Light 雪花白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTX401.jpg'), ('Light 象牙白色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTX402.jpg'), ('Medium Plus 深褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTX405.jpg'), ('Light Plus 浅褐色', 'https://www.maccosmetics.com.cn/media/export/cms/products/smoosh/mac_smoosh_MTX403.jpg')]
+产品价格：¥330
+产品说明：海洋亮白光彩隔离乳作为海洋亮白系列家族最新的产品，能在增加肌肤自然光泽的同时减少瑕疵。这款隔离乳富含亮白光彩精华和维他命C，可以减少肌肤表面的毛孔，色斑和色素暗沉，从而改善整个肌肤状况。这款产品还具有SPF30，有效防止皮肤受到UVA/UVB的伤害。
+使用方法：使用粉底前用手指，海绵或刷具均匀涂抹在面部或其他部位。
+
+-------------------------------------------------

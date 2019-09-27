@@ -1,0 +1,12 @@
+brand_id	集团名称	品牌名称	品牌官网					官网类型
+17242		珀莱雅		优资莱		https://www.uzero.com.cn/			中文官网
+45854		珀莱雅		珀莱雅		https://www.proya.com/				中文官网
+66518		雅诗兰黛	祖玛珑		https://www.jomalone.com.cn/#			中文官网
+64088		雅诗兰黛	迪梵		https://www.darphin.com/			中文官网
+66518		雅诗兰黛	雅诗兰黛	https://www.esteelauder.com.cn/			中文官网
+40830		雅诗兰黛	汤姆·福特	https://www.tomford.com/beauty/			英文官网
+18553		雅诗兰黛	倩碧		https://www.clinique.com.cn/products/		中文官网
+42362		雅诗兰黛	海蓝之谜	https://www.lamer.com.cn/			中文官网
+69575		雅诗兰黛	魅可		https://www.maccosmetics.com.cn/		中文官网
+41566		雅诗兰黛	波比布朗	https://www.bobbibrown.com.cn/			中文官网
+33291		雅诗兰黛	悦木之源	https://www.origins.com/			英文官网
